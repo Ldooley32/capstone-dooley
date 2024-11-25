@@ -1,0 +1,417 @@
+agecat,Agent,year,state,ID State,Observed Antimicrobial Days,Predicted Antimicrobial Days,Days Present,SAAR
+Adult,All,2021,Alabama,1,450718.0,496764.1,743205.0,0.9073
+Adult,All,2021,Alaska,2,,,,
+Adult,All,2021,Arizona,4,,,,
+Adult,All,2021,Arkansas,5,482607.0,481097.7,727446.0,1.0031
+Adult,All,2021,California,6,3390647.0,3307234.5,5160141.0,1.0252
+Adult,All,2021,Colorado,8,837102.0,971642.6,1507039.0,0.8615
+Adult,All,2021,Connecticut,9,288858.0,340608.66,539580.0,0.8481
+Adult,All,2021,Delaware,10,,,,
+Adult,All,2021,District of Columbia,11,,,,
+Adult,All,2021,Florida,12,2871072.0,3024131.0,4781447.0,0.9494
+Adult,All,2021,Georgia,13,1529654.0,1678915.2,2668494.0,0.9111
+Adult,All,2021,Hawaii,15,,,,
+Adult,All,2021,Idaho,16,,,,
+Adult,All,2021,Illinois,17,919832.0,956318.7,1488885.0,0.9618
+Adult,All,2021,Indiana,18,1267508.0,1352632.1,2103382.0,0.9371
+Adult,All,2021,Iowa,19,280947.0,317249.0,491952.0,0.8856
+Adult,All,2021,Kansas,20,250301.0,279735.28,431192.0,0.8948
+Adult,All,2021,Kentucky,21,889091.0,901910.75,1390710.0,0.9858
+Adult,All,2021,Louisiana,22,826739.0,789294.2,1219283.0,1.0474
+Adult,All,2021,Maine,23,272743.0,295145.72,474161.0,0.9241
+Adult,All,2021,Maryland,24,332061.0,361345.0,585163.0,0.919
+Adult,All,2021,Massachusetts,25,650860.0,726409.3,1154259.0,0.896
+Adult,All,2021,Michigan,26,969539.0,1137912.8,1795608.0,0.852
+Adult,All,2021,Minnesota,27,868308.0,952384.75,1508069.0,0.9117
+Adult,All,2021,Mississippi,28,449724.0,417376.25,648887.0,1.0775
+Adult,All,2021,Missouri,29,1515384.0,1530114.9,2383997.0,0.9904
+Adult,All,2021,Montana,30,193839.0,247849.31,389393.0,0.7821
+Adult,All,2021,New Mexico,35,161611.0,181898.53,274785.0,0.8885
+Adult,All,2021,North Carolina,37,1618549.0,1778580.8,2829740.0,0.91
+Adult,All,2021,,80,,,,
+Adult,All,2021,Nebraska,31,213749.0,251502.58,400007.0,0.8499
+Adult,All,2021,Nevada,32,521261.0,501105.7,801398.0,1.0402
+Adult,All,2021,New Hampshire,33,,,,
+Adult,All,2021,New Jersey,34,695462.0,848235.75,1348750.0,0.8199
+Adult,All,2021,New York,36,2849849.0,3290158.8,5293130.0,0.8662
+Adult,All,2021,North Dakota,38,,,,
+Adult,All,2021,Ohio,39,1759338.0,1960878.1,3086085.0,0.8972
+Adult,All,2021,Oklahoma,40,655516.0,646516.5,1026879.0,1.0139
+Adult,All,2021,Oregon,41,402669.0,485941.8,753730.0,0.8286
+Adult,All,2021,Pennsylvania,42,525708.0,629708.5,1005675.0,0.8348
+Adult,All,2021,Puerto Rico,72,,,,
+Adult,All,2021,Rhode Island,44,,,,
+Adult,All,2021,South Carolina,45,1015261.0,1101713.8,1742754.0,0.9215
+Adult,All,2021,South Dakota,46,,,,
+Adult,All,2021,Tennessee,47,1311956.0,1347116.0,2122946.0,0.9739
+Adult,All,2021,Texas,48,3219863.0,3145809.5,4829828.0,1.0235
+Adult,All,2021,Utah,49,158262.0,192985.56,285843.0,0.8201
+Adult,All,2021,Vermont,50,,,,
+Adult,All,2021,Virginia,51,1584607.0,1654635.9,2610551.0,0.9577
+Adult,All,2021,,81,,,,
+Adult,All,2021,Washington,53,695647.0,856899.75,1368241.0,0.8118
+Adult,All,2021,West Virginia,54,314049.0,242259.62,389331.0,1.2963
+Adult,All,2022,Alabama,1,548175.0,613693.2,946748.0,0.8932
+Adult,All,2022,Alaska,2,,,,
+Adult,All,2022,Arizona,4,365787.0,366941.66,570756.0,0.9969
+Adult,All,2022,Arkansas,5,551133.0,556594.8,852210.0,0.9902
+Adult,All,2022,California,6,4510856.0,4380927.0,6830041.0,1.0297
+Adult,All,2022,Colorado,8,892321.0,1015815.44,1574131.0,0.8784
+Adult,All,2022,Connecticut,9,433509.0,492087.1,784034.0,0.881
+Adult,All,2022,Delaware,10,,,,
+Adult,All,2022,District of Columbia,11,,,,
+Adult,All,2022,Florida,12,3060046.0,3177545.5,5026604.0,0.963
+Adult,All,2022,Georgia,13,1558531.0,1752488.2,2779619.0,0.8893
+Adult,All,2022,Hawaii,15,,,,
+Adult,All,2022,Idaho,16,92851.0,117980.1,180320.0,0.787
+Adult,All,2022,Illinois,17,1492196.0,1532644.6,2403103.0,0.9736
+Adult,All,2022,Indiana,18,1492685.0,1567252.0,2466057.0,0.9524
+Adult,All,2022,Iowa,19,310389.0,340901.75,537280.0,0.9105
+Adult,All,2022,Kansas,20,219724.0,235700.25,362123.0,0.9322
+Adult,All,2022,Kentucky,21,1042729.0,1059357.4,1621880.0,0.9843
+Adult,All,2022,Louisiana,22,940049.0,924048.25,1415392.0,1.0173
+Adult,All,2022,Maine,23,313977.0,356612.28,570762.0,0.8804
+Adult,All,2022,Maryland,24,566167.0,606347.9,971426.0,0.9337
+Adult,All,2022,Massachusetts,25,913497.0,1069240.8,1692436.0,0.8543
+Adult,All,2022,Michigan,26,1448941.0,1710624.0,2699358.0,0.847
+Adult,All,2022,Minnesota,27,968858.0,1071273.4,1706661.0,0.9044
+Adult,All,2022,Mississippi,28,349787.0,341863.4,525323.0,1.0232
+Adult,All,2022,Missouri,29,1633532.0,1709375.8,2692498.0,0.9556
+Adult,All,2022,Montana,30,186730.0,225997.14,358071.0,0.8262
+Adult,All,2022,Nebraska,31,251356.0,305173.06,482876.0,0.8237
+Adult,All,2022,Nevada,32,744701.0,725795.2,1159553.0,1.026
+Adult,All,2022,New Hampshire,33,,,,
+Adult,All,2022,New Jersey,34,948615.0,1013690.56,1606442.0,0.9358
+Adult,All,2022,New Mexico,35,164992.0,172515.44,263914.0,0.9564
+Adult,All,2022,New York,36,3847614.0,4293023.5,6914908.0,0.8962
+Adult,All,2022,North Carolina,37,1724045.0,1883361.2,2986867.0,0.9154
+Adult,All,2022,North Dakota,38,,,,
+Adult,All,2022,Ohio,39,2353110.0,2601558.5,4081509.0,0.9045
+Adult,All,2022,Oklahoma,40,712128.0,679801.1,1071867.0,1.0476
+Adult,All,2022,Oregon,41,521984.0,664139.5,1045118.0,0.786
+Adult,All,2022,Pennsylvania,42,921926.0,1076827.6,1695017.0,0.8562
+Adult,All,2022,Puerto Rico,72,,,,
+Adult,All,2022,Rhode Island,44,,,,
+Adult,All,2022,South Carolina,45,1023544.0,1122373.6,1783410.0,0.9119
+Adult,All,2022,South Dakota,46,,,,
+Adult,All,2022,Tennessee,47,1769061.0,1797517.9,2825255.0,0.9842
+Adult,All,2022,Texas,48,3980964.0,3958902.2,6113698.0,1.0056
+Adult,All,2022,Utah,49,180549.0,207694.47,316530.0,0.8693
+Adult,All,2022,Vermont,50,,,,
+Adult,All,2022,Virginia,51,1765624.0,1789617.5,2815488.0,0.9866
+Adult,All,2022,Washington,53,1039665.0,1206969.4,1902290.0,0.8614
+Adult,All,2022,West Virginia,54,324620.0,263172.6,415965.0,1.2335
+Adult,All,2022,Wisconsin,55,744756.0,834399.0,1329665.0,0.8926
+Adult,All,2022,Wyoming,56,,,,
+Adult,All,2023,Alabama,1,519649.0,504268.12,786659.0,1.0305
+Adult,All,2023,Alaska,2,,,,
+Adult,All,2023,Arizona,4,475020.0,456892.28,717190.0,1.0397
+Adult,All,2023,Arkansas,5,711273.0,686201.56,1057488.0,1.0365
+Adult,All,2023,California,6,5566721.0,5131384.0,7997617.0,1.0848
+Adult,All,2023,Colorado,8,899178.0,1010118.94,1569818.0,0.8902
+Adult,All,2023,Connecticut,9,760753.0,821976.1,1308448.0,0.9255
+Adult,All,2023,Delaware,10,,,,
+Adult,All,2023,District of Columbia,11,,,,
+Adult,All,2023,Florida,12,3700417.0,3654336.5,5743429.0,1.0126
+Adult,All,2023,Georgia,13,1839468.0,1972114.0,3142312.0,0.9327
+Adult,All,2023,Hawaii,15,,,,
+Adult,All,2023,Idaho,16,149232.0,178952.98,276348.0,0.8339
+Adult,All,2023,Illinois,17,1707528.0,1709707.5,2666146.0,0.9987
+Adult,All,2023,Indiana,18,1503889.0,1499624.1,2345636.0,1.0028
+Adult,All,2023,Iowa,19,303858.0,341003.78,532993.0,0.8911
+Adult,All,2023,Kansas,20,275692.0,300376.9,463477.0,0.9178
+Adult,All,2023,Kentucky,21,1084262.0,1098009.4,1684803.0,0.9875
+Adult,All,2023,Louisiana,22,928794.0,906937.75,1391744.0,1.0241
+Adult,All,2023,Maine,23,304693.0,339040.53,548226.0,0.8987
+Adult,All,2023,Maryland,24,665482.0,696034.44,1108714.0,0.9561
+Adult,All,2023,Massachusetts,25,1114303.0,1264812.9,2029616.0,0.881
+Adult,All,2023,Michigan,26,1239681.0,1383464.6,2172349.0,0.8961
+Adult,All,2023,Minnesota,27,993859.0,1059799.0,1697282.0,0.9378
+Adult,All,2023,Mississippi,28,582299.0,540829.06,839953.0,1.0767
+Adult,All,2023,Missouri,29,1694477.0,1692933.4,2657190.0,1.0009
+Adult,All,2023,Montana,30,188845.0,216635.03,343753.0,0.8717
+Adult,All,2023,Nebraska,31,285586.0,325936.75,513265.0,0.8762
+Adult,All,2023,Nevada,32,803711.0,785996.4,1245897.0,1.0225
+Adult,All,2023,New Hampshire,33,144110.0,171453.88,262420.0,0.8405
+Adult,All,2023,New Jersey,34,1201902.0,1304790.1,2057667.0,0.9211
+Adult,All,2023,New Mexico,35,291124.0,282021.75,423625.0,1.0323
+Adult,All,2023,New York,36,4187966.0,4551930.0,7322010.0,0.92
+Adult,All,2023,North Carolina,37,1841526.0,1932211.9,3054737.0,0.9531
+Adult,All,2023,North Dakota,38,176578.0,186208.42,302315.0,0.9483
+Adult,All,2023,Ohio,39,2656638.0,2878879.0,4508872.0,0.9228
+Adult,All,2023,Oklahoma,40,670735.0,621126.94,974326.0,1.0799
+Adult,All,2023,Oregon,41,578203.0,663462.7,1043558.0,0.8715
+Adult,All,2023,Pennsylvania,42,1440706.0,1574563.0,2474326.0,0.915
+Adult,All,2023,Puerto Rico,72,,,,
+Adult,All,2023,Rhode Island,44,,,,
+Adult,All,2023,South Carolina,45,1025954.0,1093966.2,1733677.0,0.9378
+Adult,All,2023,South Dakota,46,,,,
+Adult,All,2023,Tennessee,47,1904032.0,1875147.1,2930844.0,1.0154
+Adult,All,2023,Texas,48,5168762.0,4823541.5,7499477.0,1.0716
+Adult,All,2023,Utah,49,160364.0,181294.88,281962.0,0.8845
+Adult,All,2023,Vermont,50,,,,
+Adult,All,2023,Virginia,51,1903190.0,1866158.8,2939210.0,1.0198
+Adult,All,2023,Washington,53,1252636.0,1374155.9,2178797.0,0.9116
+Adult,All,2023,West Virginia,54,200748.0,164631.62,259204.0,1.2194
+Adult,All,2023,Wisconsin,55,778395.0,871934.9,1370328.0,0.8927
+Adult,All,2023,Wyoming,56,,,,
+Neonatal,All,2021,Alabama,1,,,,
+Neonatal,All,2021,Alaska,2,,,,
+Neonatal,All,2021,Arizona,4,,,,
+Neonatal,All,2021,Arkansas,5,,,,
+Neonatal,All,2021,California,6,108721.0,109942.2,404661.0,0.9889
+Neonatal,All,2021,Colorado,8,14958.0,25243.43,103534.0,0.5926
+Neonatal,All,2021,Connecticut,9,,,,
+Neonatal,All,2021,Delaware,10,,,,
+Neonatal,All,2021,District of Columbia,11,,,,
+Neonatal,All,2021,Florida,12,53288.0,56322.55,223552.0,0.9461
+Neonatal,All,2021,Georgia,13,30305.0,34962.82,129911.0,0.8668
+Neonatal,All,2021,Hawaii,15,,,,
+Neonatal,All,2021,Idaho,16,,,,
+Neonatal,All,2021,Illinois,17,31838.0,37135.73,130425.0,0.8573
+Neonatal,All,2021,Indiana,18,31017.0,40545.26,168721.0,0.765
+Neonatal,All,2021,Iowa,19,,,,
+Neonatal,All,2021,Kansas,20,,,,
+Neonatal,All,2021,Kentucky,21,16745.0,17195.32,78665.0,0.9738
+Neonatal,All,2021,Louisiana,22,41972.0,30051.93,129040.0,1.3966
+Neonatal,All,2021,Maine,23,,,,
+Neonatal,All,2021,Maryland,24,,,,
+Neonatal,All,2021,Massachusetts,25,,,,
+Neonatal,All,2021,Michigan,26,22263.0,25975.17,95431.0,0.8571
+Neonatal,All,2021,Minnesota,27,,,,
+Neonatal,All,2021,Mississippi,28,,,,
+Neonatal,All,2021,Missouri,29,48131.0,48620.83,202016.0,0.9899
+Neonatal,All,2021,Montana,30,,,,
+Neonatal,All,2021,Nebraska,31,,,,
+Neonatal,All,2021,Nevada,32,,,,
+Neonatal,All,2021,New Hampshire,33,,,,
+Neonatal,All,2021,New Jersey,34,25552.0,28851.79,104937.0,0.8856
+Neonatal,All,2021,New Mexico,35,,,,
+Neonatal,All,2021,New York,36,75882.0,73750.03,272987.0,1.0289
+Neonatal,All,2021,North Carolina,37,46422.0,54992.79,213333.0,0.8441
+Neonatal,All,2021,North Dakota,38,,,,
+Neonatal,All,2021,Ohio,39,27570.0,29790.79,110711.0,0.9255
+Neonatal,All,2021,Oklahoma,40,25519.0,19660.65,86002.0,1.298
+Neonatal,All,2021,Oregon,41,,,,
+Neonatal,All,2021,Pennsylvania,42,,,,
+Neonatal,All,2021,Puerto Rico,72,,,,
+Neonatal,All,2021,Rhode Island,44,,,,
+Neonatal,All,2021,South Carolina,45,23278.0,28838.22,115519.0,0.8072
+Neonatal,All,2021,South Dakota,46,,,,
+Neonatal,All,2021,Tennessee,47,37718.0,37273.5,156718.0,1.0119
+Neonatal,All,2021,Texas,48,117916.0,128259.16,478413.0,0.9194
+Neonatal,All,2021,Utah,49,11977.0,10842.08,40288.0,1.1047
+Neonatal,All,2021,Vermont,50,,,,
+Neonatal,All,2021,Virginia,51,34022.0,37644.82,158623.0,0.9038
+Neonatal,All,2021,Washington,53,12186.0,19393.27,80586.0,0.6284
+Neonatal,All,2021,West Virginia,54,,,,
+Neonatal,All,2021,Wisconsin,55,12844.0,12458.29,57946.0,1.031
+Neonatal,All,2021,Wyoming,56,,,,
+Neonatal,All,2022,Alabama,1,,,,
+Neonatal,All,2022,Alaska,2,,,,
+Neonatal,All,2022,Arizona,4,,,,
+Neonatal,All,2022,Arkansas,5,,,,
+Neonatal,All,2022,California,6,126146.0,131405.36,497153.0,0.96
+Neonatal,All,2022,Colorado,8,17047.0,26523.146,112896.0,0.6427
+Neonatal,All,2022,Connecticut,9,,,,
+Neonatal,All,2022,Delaware,10,,,,
+Neonatal,All,2022,District of Columbia,11,,,,
+Neonatal,All,2022,Florida,12,63100.0,58380.023,250966.0,1.0808
+Neonatal,All,2022,Georgia,13,33183.0,34218.84,132285.0,0.9697
+Neonatal,All,2022,Hawaii,15,,,,
+Neonatal,All,2022,Idaho,16,,,,
+Neonatal,All,2022,Illinois,17,37909.0,45730.406,165250.0,0.829
+Neonatal,All,2022,Indiana,18,25360.0,38495.824,153044.0,0.6588
+Neonatal,All,2022,Iowa,19,,,,
+Neonatal,All,2022,Kansas,20,,,,
+Neonatal,All,2022,Kentucky,21,30073.0,32582.12,121292.0,0.923
+Neonatal,All,2022,Louisiana,22,38576.0,28888.162,130997.0,1.3354
+Neonatal,All,2022,Maine,23,,,,
+Neonatal,All,2022,Maryland,24,15138.0,14832.144,61995.0,1.0206
+Neonatal,All,2022,Massachusetts,25,15956.0,20250.662,89699.0,0.7879
+Neonatal,All,2022,Michigan,26,31009.0,37180.953,137973.0,0.834
+Neonatal,All,2022,Minnesota,27,20924.0,18247.506,80614.0,1.1467
+Neonatal,All,2022,Mississippi,28,,,,
+Neonatal,All,2022,Missouri,29,45457.0,51816.133,206571.0,0.8773
+Neonatal,All,2022,Montana,30,,,,
+Neonatal,All,2022,Nebraska,31,,,,
+Neonatal,All,2022,Nevada,32,17739.0,17933.293,72342.0,0.9892
+Neonatal,All,2022,New Hampshire,33,,,,
+Neonatal,All,2022,New Jersey,34,27228.0,33833.227,122471.0,0.8048
+Neonatal,All,2022,New Mexico,35,,,,
+Neonatal,All,2022,New York,36,79175.0,79154.21,296515.0,1.0003
+Neonatal,All,2022,North Carolina,37,47391.0,55824.58,218508.0,0.8489
+Neonatal,All,2022,North Dakota,38,,,,
+Neonatal,All,2022,Ohio,39,39389.0,49739.95,192333.0,0.7919
+Neonatal,All,2022,Oklahoma,40,26656.0,20000.092,87752.0,1.3328
+Neonatal,All,2022,Oregon,41,,,,
+Neonatal,All,2022,Pennsylvania,42,13386.0,18390.705,70941.0,0.7279
+Neonatal,All,2022,Puerto Rico,72,,,,
+Neonatal,All,2022,Rhode Island,44,,,,
+Neonatal,All,2022,South Carolina,45,24615.0,31544.04,123872.0,0.7803
+Neonatal,All,2022,South Dakota,46,,,,
+Neonatal,All,2022,Tennessee,47,52362.0,49545.824,194801.0,1.0568
+Neonatal,All,2022,Texas,48,135922.0,151584.88,581254.0,0.8967
+Neonatal,All,2022,Utah,49,10094.0,10027.132,38695.0,1.0067
+Neonatal,All,2022,Vermont,50,,,,
+Neonatal,All,2022,Virginia,51,34395.0,36340.562,156363.0,0.9465
+Neonatal,All,2022,Washington,53,25039.0,36185.117,140597.0,0.692
+Neonatal,All,2022,West Virginia,54,,,,
+Neonatal,All,2022,Wisconsin,55,13324.0,15274.121,57882.0,0.8723
+Neonatal,All,2022,Wyoming,56,,,,
+Pediatric,All,2021,Alabama,1,,,,
+Pediatric,All,2021,Alaska,2,,,,
+Pediatric,All,2021,Arizona,4,,,,
+Pediatric,All,2021,Arkansas,5,,,,
+Pediatric,All,2021,California,6,189608.0,200974.83,367130.0,0.9434
+Pediatric,All,2021,Colorado,8,,,,
+Pediatric,All,2021,Connecticut,9,,,,
+Pediatric,All,2021,Delaware,10,,,,
+Pediatric,All,2021,District of Columbia,11,,,,
+Pediatric,All,2021,Florida,12,82401.0,84921.4,154168.0,0.9703
+Pediatric,All,2021,Georgia,13,21072.0,22634.07,45101.0,0.931
+Pediatric,All,2021,Hawaii,15,,,,
+Pediatric,All,2021,Idaho,16,,,,
+Pediatric,All,2021,Illinois,17,,,,
+Pediatric,All,2021,Indiana,18,49858.0,59680.59,112627.0,0.8354
+Pediatric,All,2021,Iowa,19,,,,
+Pediatric,All,2021,Kansas,20,,,,
+Pediatric,All,2021,Kentucky,21,,,,
+Pediatric,All,2021,Louisiana,22,,,,
+Pediatric,All,2021,Maine,23,,,,
+Pediatric,All,2021,Maryland,24,,,,
+Pediatric,All,2021,Massachusetts,25,,,,
+Pediatric,All,2021,Michigan,26,,,,
+Pediatric,All,2021,Minnesota,27,,,,
+Pediatric,All,2021,Mississippi,28,,,,
+Pediatric,All,2021,Missouri,29,,,,
+Pediatric,All,2021,Montana,30,,,,
+Pediatric,All,2021,Nebraska,31,,,,
+Pediatric,All,2021,Nevada,32,,,,
+Pediatric,All,2021,New Hampshire,33,,,,
+Pediatric,All,2021,New Jersey,34,43549.0,42899.02,84312.0,1.0152
+Pediatric,All,2021,New Mexico,35,,,,
+Pediatric,All,2021,New York,36,144087.0,164695.62,324945.0,0.8749
+Pediatric,All,2021,North Carolina,37,72524.0,84343.71,161572.0,0.8599
+Pediatric,All,2021,North Dakota,38,,,,
+Pediatric,All,2021,Ohio,39,81915.0,96172.93,183159.0,0.8517
+Pediatric,All,2021,Oklahoma,40,,,,
+Pediatric,All,2021,Oregon,41,,,,
+Pediatric,All,2021,Pennsylvania,42,,,,
+Pediatric,All,2021,Puerto Rico,72,,,,
+Pediatric,All,2021,Rhode Island,44,,,,
+Pediatric,All,2021,South Carolina,45,,,,
+Pediatric,All,2021,South Dakota,46,,,,
+Pediatric,All,2021,Tennessee,47,,,,
+Pediatric,All,2021,Texas,48,176111.0,169802.77,309303.0,1.0372
+Pediatric,All,2021,Utah,49,,,,
+Pediatric,All,2021,Vermont,50,,,,
+Pediatric,All,2021,Virginia,51,60956.0,61856.07,114713.0,0.9854
+Pediatric,All,2021,,80,,,,
+Pediatric,All,2021,Washington,53,,,,
+Pediatric,All,2021,West Virginia,54,,,,
+Pediatric,All,2021,Wisconsin,55,,,,
+Pediatric,All,2022,Alabama,1,,,,
+Pediatric,All,2022,Alaska,2,,,,
+Pediatric,All,2022,Arizona,4,,,,
+Pediatric,All,2022,Arkansas,5,,,,
+Pediatric,All,2022,California,6,216091.0,236133.3,435450.0,0.9151
+Pediatric,All,2022,Colorado,8,,,,
+Pediatric,All,2022,Connecticut,9,,,,
+Pediatric,All,2022,Delaware,10,,,,
+Pediatric,All,2022,District of Columbia,11,,,,
+Pediatric,All,2022,Florida,12,86443.0,87040.8,164660.0,0.9931
+Pediatric,All,2022,Georgia,13,25345.0,27739.824,54249.0,0.9137
+Pediatric,All,2022,Hawaii,15,,,,
+Pediatric,All,2022,Idaho,16,,,,
+Pediatric,All,2022,Illinois,17,55451.0,60662.92,113229.0,0.9141
+Pediatric,All,2022,Indiana,18,28831.0,33847.434,63271.0,0.8518
+Pediatric,All,2022,Iowa,19,,,,
+Pediatric,All,2022,Kansas,20,,,,
+Pediatric,All,2022,Kentucky,21,,,,
+Pediatric,All,2022,Louisiana,22,,,,
+Pediatric,All,2022,Maine,23,,,,
+Pediatric,All,2022,Maryland,24,,,,
+Pediatric,All,2022,Massachusetts,25,,,,
+Pediatric,All,2022,Michigan,26,,,,
+Pediatric,All,2022,Minnesota,27,,,,
+Pediatric,All,2022,Mississippi,28,,,,
+Pediatric,All,2022,Missouri,29,86349.0,99513.22,191129.0,0.8677
+Pediatric,All,2022,Montana,30,,,,
+Pediatric,All,2022,Nebraska,31,,,,
+Pediatric,All,2022,Nevada,32,,,,
+Pediatric,All,2022,New Hampshire,33,,,,
+Pediatric,All,2022,New Jersey,34,49960.0,59285.645,120374.0,0.8427
+Pediatric,All,2022,New Mexico,35,,,,
+Pediatric,All,2022,New York,36,200838.0,224413.77,439596.0,0.8949
+Pediatric,All,2022,North Carolina,37,81537.0,91401.805,174692.0,0.8921
+Pediatric,All,2022,North Dakota,38,,,,
+Pediatric,All,2022,Ohio,39,102326.0,120031.69,233307.0,0.8525
+Pediatric,All,2022,Oklahoma,40,,,,
+Pediatric,All,2022,Oregon,41,,,,
+Pediatric,All,2022,Pennsylvania,42,,,,
+Pediatric,All,2022,Puerto Rico,72,,,,
+Pediatric,All,2022,Rhode Island,44,,,,
+Pediatric,All,2022,South Carolina,45,,,,
+Pediatric,All,2022,South Dakota,46,,,,
+Pediatric,All,2022,Tennessee,47,,,,
+Pediatric,All,2022,Texas,48,273893.0,272524.16,506011.0,1.005
+Pediatric,All,2022,Utah,49,,,,
+Pediatric,All,2022,Vermont,50,,,,
+Pediatric,All,2022,Virginia,51,59827.0,59177.848,109969.0,1.011
+Pediatric,All,2022,Washington,53,,,,
+Pediatric,All,2022,West Virginia,54,,,,
+Pediatric,All,2022,Wisconsin,55,,,,
+Pediatric,All,2022,Wyoming,56,,,,
+Pediatric,All,2023,Alabama,1,,,,
+Pediatric,All,2023,Alaska,2,,,,
+Pediatric,All,2023,Arizona,4,,,,
+Pediatric,All,2023,Arkansas,5,,,,
+Pediatric,All,2023,California,6,225921.0,246416.77,452076.0,0.9168
+Pediatric,All,2023,Colorado,8,,,,
+Pediatric,All,2023,Connecticut,9,,,,
+Pediatric,All,2023,Delaware,10,,,,
+Pediatric,All,2023,District of Columbia,11,,,,
+Pediatric,All,2023,Florida,12,115305.0,110870.53,202086.0,1.04
+Pediatric,All,2023,Georgia,13,34280.0,35835.99,69270.0,0.9566
+Pediatric,All,2023,Hawaii,15,,,,
+Pediatric,All,2023,Idaho,16,,,,
+Pediatric,All,2023,Illinois,17,49317.0,52708.535,97423.0,0.9357
+Pediatric,All,2023,Indiana,18,37948.0,47036.42,89400.0,0.8068
+Pediatric,All,2023,Iowa,19,,,,
+Pediatric,All,2023,Kansas,20,,,,
+Pediatric,All,2023,Kentucky,21,,,,
+Pediatric,All,2023,Louisiana,22,,,,
+Pediatric,All,2023,Maine,23,,,,
+Pediatric,All,2023,Maryland,24,,,,
+Pediatric,All,2023,Massachusetts,25,,,,
+Pediatric,All,2023,Michigan,26,,,,
+Pediatric,All,2023,Minnesota,27,74686.0,62262.062,121086.0,1.1995
+Pediatric,All,2023,Mississippi,28,,,,
+Pediatric,All,2023,Missouri,29,87495.0,95696.54,183874.0,0.9143
+Pediatric,All,2023,Montana,30,,,,
+Pediatric,All,2023,Nebraska,31,,,,
+Pediatric,All,2023,Nevada,32,,,,
+Pediatric,All,2023,New Hampshire,33,,,,
+Pediatric,All,2023,New Jersey,34,52599.0,60178.42,120195.0,0.8741
+Pediatric,All,2023,New Mexico,35,,,,
+Pediatric,All,2023,New York,36,213840.0,226001.81,446160.0,0.9462
+Pediatric,All,2023,North Carolina,37,85963.0,89671.8,169290.0,0.9586
+Pediatric,All,2023,North Dakota,38,,,,
+Pediatric,All,2023,Ohio,39,120259.0,130827.445,252145.0,0.9192
+Pediatric,All,2023,Oklahoma,40,,,,
+Pediatric,All,2023,Oregon,41,,,,
+Pediatric,All,2023,Pennsylvania,42,78466.0,99340.8,183514.0,0.7899
+Pediatric,All,2023,Puerto Rico,72,,,,
+Pediatric,All,2023,Rhode Island,44,,,,
+Pediatric,All,2023,South Carolina,45,,,,
+Pediatric,All,2023,South Dakota,46,,,,
+Pediatric,All,2023,Tennessee,47,,,,
+Pediatric,All,2023,Texas,48,283135.0,268043.03,495866.0,1.0563
+Pediatric,All,2023,Utah,49,,,,
+Pediatric,All,2023,Vermont,50,,,,
+Pediatric,All,2023,Virginia,51,50645.0,48179.49,91178.0,1.0512
+Pediatric,All,2023,Washington,53,55835.0,65010.094,124168.0,0.8589
+Pediatric,All,2023,West Virginia,54,,,,
+Pediatric,All,2023,Wisconsin,55,,,,
+Pediatric,All,2023,Wyoming,56,,,,
