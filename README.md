@@ -18,7 +18,7 @@ commit and push updates to GitHub
 1. Establish baseline antibiotic usage tends
     a. antibiotic consumption rate
         * prescriptions issued per year
-        * antibiotic given to live stock per year 
+        * million kilograms of antibiotic sold for livestock per year 
 
 2. Total number of bacteria resistence per year
 

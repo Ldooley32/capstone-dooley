@@ -1,0 +1,311 @@
+ID State,State,Year,"Prescriptions per 1,000 Enrollees",Event Year,"Prescriptions per 1,000 Population"
+1,Alabama,2017,1803,,
+2,Alaska,2017,1233,,
+4,Arizona,2017,1372,,
+5,Arkansas,2017,1741,,
+6,California,2017,1232,,
+8,Colorado,2017,1222,,
+9,Connecticut,2017,1363,,
+10,Delaware,2017,1307,,
+11,District of Columbia,2017,1491,,
+12,Florida,2017,1555,,
+13,Georgia,2017,1579,,
+15,Hawaii,2017,1030,,
+16,Idaho,2017,1267,,
+17,Illinois,2017,1408,,
+18,Indiana,2017,1661,,
+19,Iowa,2017,1553,,
+20,Kansas,2017,1695,,
+21,Kentucky,2017,1896,,
+22,Louisiana,2017,1728,,
+23,Maine,2017,1165,,
+24,Maryland,2017,1406,,
+25,Massachusetts,2017,1363,,
+26,Michigan,2017,1396,,
+27,Minnesota,2017,1285,,
+28,Mississippi,2017,1864,,
+29,Missouri,2017,1623,,
+30,Montana,2017,1163,,
+31,Nebraska,2017,1641,,
+32,Nevada,2017,1265,,
+33,New Hampshire,2017,1275,,
+34,New Jersey,2017,1410,,
+35,New Mexico,2017,1141,,
+36,New York,2017,1408,,
+37,North Carolina,2017,1572,,
+38,North Dakota,2017,1561,,
+39,Ohio,2017,1566,,
+40,Oklahoma,2017,1653,,
+41,Oregon,2017,1090,,
+42,Pennsylvania,2017,1484,,
+44,Rhode Island,2017,1317,,
+45,South Carolina,2017,1500,,
+46,South Dakota,2017,1581,,
+47,Tennessee,2017,1836,,
+48,Texas,2017,1594,,
+49,Utah,2017,1439,,
+50,Vermont,2017,1067,,
+51,Virginia,2017,1505,,
+53,Washington,2017,1144,,
+54,West Virginia,2017,1824,,
+55,Wisconsin,2017,1276,,
+56,Wyoming,2017,1230,,
+1,Alabama,2018,1774,,
+2,Alaska,2018,1184,,
+4,Arizona,2018,1333,,
+5,Arkansas,2018,1652,,
+6,California,2018,1190,,
+8,Colorado,2018,1177,,
+9,Connecticut,2018,1329,,
+10,Delaware,2018,1261,,
+11,District of Columbia,2018,1513,,
+12,Florida,2018,1546,,
+13,Georgia,2018,1552,,
+15,Hawaii,2018,1038,,
+16,Idaho,2018,1237,,
+17,Illinois,2018,1361,,
+18,Indiana,2018,1591,,
+19,Iowa,2018,1474,,
+20,Kansas,2018,1623,,
+21,Kentucky,2018,1814,,
+22,Louisiana,2018,1663,,
+23,Maine,2018,1118,,
+24,Maryland,2018,1368,,
+25,Massachusetts,2018,1339,,
+26,Michigan,2018,1343,,
+27,Minnesota,2018,1232,,
+28,Mississippi,2018,1797,,
+29,Missouri,2018,1539,,
+30,Montana,2018,1127,,
+31,Nebraska,2018,1576,,
+32,Nevada,2018,1219,,
+33,New Hampshire,2018,1233,,
+34,New Jersey,2018,1374,,
+35,New Mexico,2018,1122,,
+36,New York,2018,1388,,
+37,North Carolina,2018,1492,,
+38,North Dakota,2018,1462,,
+39,Ohio,2018,1502,,
+40,Oklahoma,2018,1602,,
+41,Oregon,2018,1049,,
+42,Pennsylvania,2018,1430,,
+44,Rhode Island,2018,1324,,
+45,South Carolina,2018,1457,,
+46,South Dakota,2018,1454,,
+47,Tennessee,2018,1763,,
+48,Texas,2018,1560,,
+49,Utah,2018,1389,,
+50,Vermont,2018,996,,
+51,Virginia,2018,1446,,
+53,Washington,2018,1103,,
+54,West Virginia,2018,1746,,
+55,Wisconsin,2018,1224,,
+56,Wyoming,2018,1235,,
+0,United States,,,2019,765
+1,Alabama,,,2019,1108
+2,Alaska,,,2019,447
+4,Arizona,,,2019,670
+5,Arkansas,,,2019,1028
+6,California,,,2019,519
+8,Colorado,,,2019,513
+9,Connecticut,,,2019,788
+10,Delaware,,,2019,794
+11,District of Columbia,,,2019,798
+12,Florida,,,2019,795
+13,Georgia,,,2019,836
+15,Hawaii,,,2019,569
+16,Idaho,,,2019,625
+17,Illinois,,,2019,754
+18,Indiana,,,2019,855
+19,Iowa,,,2019,861
+20,Kansas,,,2019,882
+21,Kentucky,,,2019,1143
+22,Louisiana,,,2019,1110
+23,Maine,,,2019,679
+24,Maryland,,,2019,710
+25,Massachusetts,,,2019,696
+26,Michigan,,,2019,816
+27,Minnesota,,,2019,581
+28,Mississippi,,,2019,1130
+29,Missouri,,,2019,798
+30,Montana,,,2019,589
+31,Nebraska,,,2019,920
+32,Nevada,,,2019,654
+33,New Hampshire,,,2019,688
+34,New Jersey,,,2019,844
+35,New Mexico,,,2019,640
+36,New York,,,2019,853
+37,North Carolina,,,2019,789
+38,North Dakota,,,2019,696
+39,Ohio,,,2019,882
+40,Oklahoma,,,2019,843
+41,Oregon,,,2019,491
+42,Pennsylvania,,,2019,806
+44,Rhode Island,,,2019,828
+45,South Carolina,,,2019,874
+46,South Dakota,,,2019,773
+47,Tennessee,,,2019,1046
+48,Texas,,,2019,805
+49,Utah,,,2019,663
+50,Vermont,,,2019,606
+51,Virginia,,,2019,751
+53,Washington,,,2019,507
+54,West Virginia,,,2019,1193
+55,Wisconsin,,,2019,621
+56,Wyoming,,,2019,738
+0,United States,,,2020,613
+1,Alabama,,,2020,922
+2,Alaska,,,2020,348
+4,Arizona,,,2020,547
+5,Arkansas,,,2020,844
+6,California,,,2020,421
+8,Colorado,,,2020,418
+9,Connecticut,,,2020,617
+10,Delaware,,,2020,618
+11,District of Columbia,,,2020,627
+12,Florida,,,2020,656
+13,Georgia,,,2020,682
+15,Hawaii,,,2020,420
+16,Idaho,,,2020,506
+17,Illinois,,,2020,606
+18,Indiana,,,2020,680
+19,Iowa,,,2020,665
+20,Kansas,,,2020,690
+21,Kentucky,,,2020,887
+22,Louisiana,,,2020,920
+23,Maine,,,2020,517
+24,Maryland,,,2020,562
+25,Massachusetts,,,2020,548
+26,Michigan,,,2020,657
+27,Minnesota,,,2020,455
+28,Mississippi,,,2020,956
+29,Missouri,,,2020,644
+30,Montana,,,2020,459
+31,Nebraska,,,2020,718
+32,Nevada,,,2020,538
+33,New Hampshire,,,2020,543
+34,New Jersey,,,2020,656
+35,New Mexico,,,2020,519
+36,New York,,,2020,675
+37,North Carolina,,,2020,625
+38,North Dakota,,,2020,547
+39,Ohio,,,2020,698
+40,Oklahoma,,,2020,675
+41,Oregon,,,2020,398
+42,Pennsylvania,,,2020,647
+44,Rhode Island,,,2020,635
+45,South Carolina,,,2020,700
+46,South Dakota,,,2020,612
+47,Tennessee,,,2020,842
+48,Texas,,,2020,637
+49,Utah,,,2020,541
+50,Vermont,,,2020,489
+51,Virginia,,,2020,591
+53,Washington,,,2020,397
+54,West Virginia,,,2020,974
+55,Wisconsin,,,2020,498
+56,Wyoming,,,2020,586
+0,United States,,,2021,636
+1,Alabama,,,2021,985
+2,Alaska,,,2021,354
+4,Arizona,,,2021,566
+5,Arkansas,,,2021,927
+6,California,,,2021,411
+8,Colorado,,,2021,425
+9,Connecticut,,,2021,605
+10,Delaware,,,2021,619
+11,District of Columbia,,,2021,673
+12,Florida,,,2021,721
+13,Georgia,,,2021,749
+15,Hawaii,,,2021,392
+16,Idaho,,,2021,514
+17,Illinois,,,2021,604
+18,Indiana,,,2021,701
+19,Iowa,,,2021,677
+20,Kansas,,,2021,724
+21,Kentucky,,,2021,938
+22,Louisiana,,,2021,1015
+23,Maine,,,2021,508
+24,Maryland,,,2021,551
+25,Massachusetts,,,2021,545
+26,Michigan,,,2021,675
+27,Minnesota,,,2021,466
+28,Mississippi,,,2021,1083
+29,Missouri,,,2021,675
+30,Montana,,,2021,472
+31,Nebraska,,,2021,760
+32,Nevada,,,2021,540
+33,New Hampshire,,,2021,538
+34,New Jersey,,,2021,635
+35,New Mexico,,,2021,530
+36,New York,,,2021,666
+37,North Carolina,,,2021,644
+38,North Dakota,,,2021,581
+39,Ohio,,,2021,718
+40,Oklahoma,,,2021,766
+41,Oregon,,,2021,387
+42,Pennsylvania,,,2021,643
+44,Rhode Island,,,2021,600
+45,South Carolina,,,2021,765
+46,South Dakota,,,2021,670
+47,Tennessee,,,2021,904
+48,Texas,,,2021,708
+49,Utah,,,2021,555
+50,Vermont,,,2021,460
+51,Virginia,,,2021,592
+53,Washington,,,2021,389
+54,West Virginia,,,2021,1022
+55,Wisconsin,,,2021,502
+56,Wyoming,,,2021,619
+0,United States,,,2022,709
+1,Alabama,,,2022,1030
+2,Alaska,,,2022,403
+4,Arizona,,,2022,634
+5,Arkansas,,,2022,1020
+6,California,,,2022,470
+8,Colorado,,,2022,484
+9,Connecticut,,,2022,694
+10,Delaware,,,2022,703
+11,District of Columbia,,,2022,748
+12,Florida,,,2022,781
+13,Georgia,,,2022,802
+15,Hawaii,,,2022,474
+16,Idaho,,,2022,565
+17,Illinois,,,2022,701
+18,Indiana,,,2022,782
+19,Iowa,,,2022,760
+20,Kansas,,,2022,803
+21,Kentucky,,,2022,1053
+22,Louisiana,,,2022,1066
+23,Maine,,,2022,571
+24,Maryland,,,2022,631
+25,Massachusetts,,,2022,621
+26,Michigan,,,2022,755
+27,Minnesota,,,2022,522
+28,Mississippi,,,2022,1149
+29,Missouri,,,2022,731
+30,Montana,,,2022,522
+31,Nebraska,,,2022,824
+32,Nevada,,,2022,619
+33,New Hampshire,,,2022,615
+34,New Jersey,,,2022,749
+35,New Mexico,,,2022,617
+36,New York,,,2022,766
+37,North Carolina,,,2022,722
+38,North Dakota,,,2022,649
+39,Ohio,,,2022,798
+40,Oklahoma,,,2022,808
+41,Oregon,,,2022,435
+42,Pennsylvania,,,2022,732
+44,Rhode Island,,,2022,697
+45,South Carolina,,,2022,820
+46,South Dakota,,,2022,722
+47,Tennessee,,,2022,967
+48,Texas,,,2022,780
+49,Utah,,,2022,625
+50,Vermont,,,2022,524
+51,Virginia,,,2022,682
+53,Washington,,,2022,437
+54,West Virginia,,,2022,1184
+55,Wisconsin,,,2022,554
+56,Wyoming,,,2022,689
