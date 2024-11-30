@@ -1,0 +1,417 @@
+SAAR Population,Agent,Event Year,State,ID State,No. of facilities reporting SAARs,No. of facilities eligible to report SAARs,Percentage of eligible facilities reporting,Observed Antimicrobial Days,Predicted Antimicrobial Days,Days Present,No. Facilities Included in Distribution,10th Percentile,25th Percentile,50th Percentile,75th Percentile,90th Percentile,Lower Confidence Limit for 50% percentile (median) SAAR value,Upper Confidence Limit for 50% percentile (median) SAAR value
+Adult,All,2021,Alabama,1,20,91,21.9%,450718.0,496764.1,743205.0,19.0,Insufficient Data,Insufficient Data,1.072,Insufficient Data,Insufficient Data,0.989,1.201
+Adult,All,2021,Alaska,2,5,16,31.2%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Arizona,4,11,78,14.1%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Arkansas,5,24,66,36.3%,482607.0,481097.7,727446.0,24.0,0.665,0.970,1.070,1.150,1.278,0.984,1.147
+Adult,All,2021,California,6,109,362,30.1%,3390647.0,3307234.5,5160141.0,109.0,0.854,0.944,1.025,1.148,1.303,0.984,1.086
+Adult,All,2021,Colorado,8,46,84,54.7%,837102.0,971642.6,1507039.0,46.0,0.711,0.780,0.842,0.917,1.032,0.808,0.894
+Adult,All,2021,Connecticut,9,12,31,38.7%,288858.0,340608.66,539580.0,12.0,Insufficient Data,Insufficient Data,0.866,Insufficient Data,Insufficient Data,0.763,0.983
+Adult,All,2021,Delaware,10,4,8,50.0%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,District of Columbia,11,5,7,71.4%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Florida,12,99,222,44.6%,2871072.0,3024131.0,4781447.0,99.0,0.749,0.871,0.979,1.095,1.215,0.942,1.013
+Adult,All,2021,Georgia,13,56,133,42.1%,1529654.0,1678915.2,2668494.0,56.0,0.736,0.855,0.945,1.067,1.178,0.892,0.974
+Adult,All,2021,Hawaii,15,5,20,25.0%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Idaho,16,7,36,19.4%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Illinois,17,36,181,19.8%,919832.0,956318.7,1488885.0,36.0,0.839,0.879,0.981,1.072,1.159,0.909,1.039
+Adult,All,2021,Indiana,18,76,121,62.8%,1267508.0,1352632.1,2103382.0,76.0,0.620,0.871,0.988,1.096,1.272,0.931,1.041
+Adult,All,2021,Iowa,19,12,103,11.6%,280947.0,317249.0,491952.0,12.0,Insufficient Data,Insufficient Data,0.879,Insufficient Data,Insufficient Data,0.852,1.094
+Adult,All,2021,Kansas,20,19,110,17.2%,250301.0,279735.28,431192.0,19.0,Insufficient Data,Insufficient Data,0.914,Insufficient Data,Insufficient Data,0.856,0.989
+Adult,All,2021,Kentucky,21,51,95,53.6%,889091.0,901910.75,1390710.0,51.0,0.781,0.916,1.032,1.257,1.407,0.965,1.131
+Adult,All,2021,Louisiana,22,46,111,41.4%,826739.0,789294.2,1219283.0,46.0,0.797,0.932,1.028,1.186,1.337,0.985,1.114
+Adult,All,2021,Maine,23,19,28,67.8%,272743.0,295145.72,474161.0,19.0,Insufficient Data,Insufficient Data,1.047,Insufficient Data,Insufficient Data,0.879,1.199
+Adult,All,2021,Maryland,24,15,48,31.2%,332061.0,361345.0,585163.0,15.0,Insufficient Data,Insufficient Data,0.999,Insufficient Data,Insufficient Data,0.807,1.03
+Adult,All,2021,Massachusetts,25,24,66,36.3%,650860.0,726409.3,1154259.0,24.0,0.632,0.712,0.808,0.962,1.072,0.73,0.938
+Adult,All,2021,Michigan,26,48,134,35.8%,969539.0,1137912.8,1795608.0,48.0,0.719,0.832,0.894,1.035,1.124,0.866,0.974
+Adult,All,2021,Minnesota,27,43,105,40.9%,868308.0,952384.75,1508069.0,43.0,0.754,0.792,0.884,0.985,1.104,0.805,0.944
+Adult,All,2021,Mississippi,28,20,78,25.6%,449724.0,417376.25,648887.0,20.0,0.887,1.008,1.176,1.286,1.349,1.025,1.284
+Adult,All,2021,Missouri,29,67,100,67.0%,1515384.0,1530114.9,2383997.0,67.0,0.740,0.843,0.983,1.109,1.245,0.945,1.049
+Adult,All,2021,Montana,30,18,35,51.4%,193839.0,247849.31,389393.0,18.0,Insufficient Data,Insufficient Data,0.788,Insufficient Data,Insufficient Data,0.74,1.008
+Adult,All,2021,New Mexico,35,16,46,34.7%,161611.0,181898.53,274785.0,16.0,Insufficient Data,Insufficient Data,1.004,Insufficient Data,Insufficient Data,0.924,1.2
+Adult,All,2021,North Carolina,37,67,117,57.2%,1618549.0,1778580.8,2829740.0,67.0,0.730,0.802,0.915,1.048,1.201,0.868,0.95
+Adult,All,2021,,80,6,6,100.0%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Nebraska,31,13,54,24.0%,213749.0,251502.58,400007.0,13.0,Insufficient Data,Insufficient Data,0.942,Insufficient Data,Insufficient Data,0.741,0.981
+Adult,All,2021,Nevada,32,13,34,38.2%,521261.0,501105.7,801398.0,13.0,Insufficient Data,Insufficient Data,1.008,Insufficient Data,Insufficient Data,0.96,1.17
+Adult,All,2021,New Hampshire,33,7,25,28.0%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,New Jersey,34,28,72,38.8%,695462.0,848235.75,1348750.0,28.0,0.701,0.825,0.969,1.020,1.113,0.906,1.004
+Adult,All,2021,New York,36,82,190,43.1%,2849849.0,3290158.8,5293130.0,82.0,0.731,0.776,0.874,0.986,1.120,0.85,0.923
+Adult,All,2021,North Dakota,38,4,27,14.8%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Ohio,39,69,167,41.3%,1759338.0,1960878.1,3086085.0,69.0,0.725,0.819,0.889,1.026,1.158,0.869,0.951
+Adult,All,2021,Oklahoma,40,31,103,30.1%,655516.0,646516.5,1026879.0,31.0,0.858,0.944,1.005,1.217,1.252,0.972,1.188
+Adult,All,2021,Oregon,41,21,60,35.0%,402669.0,485941.8,753730.0,21.0,0.718,0.752,0.812,0.890,0.954,0.752,0.89
+Adult,All,2021,Pennsylvania,42,25,186,13.4%,525708.0,629708.5,1005675.0,25.0,0.703,0.811,0.859,0.904,1.014,0.814,0.891
+Adult,All,2021,Puerto Rico,72,5,22,22.7%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Rhode Island,44,4,11,36.3%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,South Carolina,45,44,66,66.6%,1015261.0,1101713.8,1742754.0,44.0,0.724,0.827,0.955,1.077,1.172,0.871,0.995
+Adult,All,2021,South Dakota,46,6,60,10.0%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Tennessee,47,47,107,43.9%,1311956.0,1347116.0,2122946.0,47.0,0.707,0.884,0.990,1.125,1.280,0.956,1.092
+Adult,All,2021,Texas,48,130,405,32.1%,3219863.0,3145809.5,4829828.0,129.0,0.839,0.912,1.005,1.133,1.273,0.975,1.042
+Adult,All,2021,Utah,49,16,46,34.7%,158262.0,192985.56,285843.0,16.0,Insufficient Data,Insufficient Data,0.823,Insufficient Data,Insufficient Data,0.775,1.015
+Adult,All,2021,Vermont,50,2,15,13.3%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Virginia,51,70,91,76.9%,1584607.0,1654635.9,2610551.0,70.0,0.794,0.901,1.003,1.118,1.247,0.941,1.043
+Adult,All,2021,,81,6,7,85.7%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2021,Washington,53,34,91,37.3%,695647.0,856899.75,1368241.0,34.0,0.606,0.755,0.817,0.968,0.986,0.794,0.934
+Adult,All,2021,West Virginia,54,15,54,27.7%,314049.0,242259.62,389331.0,15.0,Insufficient Data,Insufficient Data,1.195,Insufficient Data,Insufficient Data,1.057,1.386
+Adult,All,2022,Alabama,1,23,90,25.6%,548175.0,613693.2,946748.0,23.0,0.636,0.873,0.967,1.071,1.164,0.89,1.039
+Adult,All,2022,Alaska,2,5,16,31.3%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,Arizona,4,14,82,17.1%,365787.0,366941.66,570756.0,14.0,Insufficient Data,Insufficient Data,0.984,Insufficient Data,Insufficient Data,0.782,1.141
+Adult,All,2022,Arkansas,5,25,70,35.7%,551133.0,556594.8,852210.0,24.0,0.637,0.913,1.025,1.100,1.190,0.958,1.087
+Adult,All,2022,California,6,148,359,41.2%,4510856.0,4380927.0,6830041.0,148.0,0.862,0.948,1.061,1.193,1.337,1.035,1.091
+Adult,All,2022,Colorado,8,56,83,67.5%,892321.0,1015815.44,1574131.0,56.0,0.756,0.812,0.882,0.951,1.120,0.857,0.905
+Adult,All,2022,Connecticut,9,14,31,45.2%,433509.0,492087.1,784034.0,14.0,Insufficient Data,Insufficient Data,0.864,Insufficient Data,Insufficient Data,0.809,0.962
+Adult,All,2022,Delaware,10,5,9,55.6%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,District of Columbia,11,4,8,50.0%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,Florida,12,107,222,48.2%,3060046.0,3177545.5,5026604.0,107.0,0.803,0.883,0.975,1.062,1.145,0.934,1.011
+Adult,All,2022,Georgia,13,53,135,39.3%,1558531.0,1752488.2,2779619.0,53.0,0.665,0.831,0.929,1.005,1.067,0.882,0.974
+Adult,All,2022,Hawaii,15,4,19,21.1%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,Idaho,16,13,38,34.2%,92851.0,117980.1,180320.0,13.0,Insufficient Data,Insufficient Data,0.860,Insufficient Data,Insufficient Data,0.727,1.016
+Adult,All,2022,Illinois,17,53,182,29.1%,1492196.0,1532644.6,2403103.0,53.0,0.817,0.896,0.977,1.085,1.168,0.932,1.049
+Adult,All,2022,Indiana,18,86,120,71.7%,1492685.0,1567252.0,2466057.0,86.0,0.819,0.900,1.028,1.102,1.310,0.966,1.06
+Adult,All,2022,Iowa,19,15,104,14.4%,310389.0,340901.75,537280.0,15.0,Insufficient Data,Insufficient Data,0.953,Insufficient Data,Insufficient Data,0.869,1.086
+Adult,All,2022,Kansas,20,17,102,16.7%,219724.0,235700.25,362123.0,17.0,Insufficient Data,Insufficient Data,0.944,Insufficient Data,Insufficient Data,0.855,0.983
+Adult,All,2022,Kentucky,21,60,95,63.2%,1042729.0,1059357.4,1621880.0,60.0,0.787,0.887,1.013,1.185,1.333,0.937,1.078
+Adult,All,2022,Louisiana,22,55,115,47.8%,940049.0,924048.25,1415392.0,55.0,0.614,0.888,1.025,1.123,1.295,0.982,1.056
+Adult,All,2022,Maine,23,19,27,70.4%,313977.0,356612.28,570762.0,19.0,Insufficient Data,Insufficient Data,0.954,Insufficient Data,Insufficient Data,0.91,1.123
+Adult,All,2022,Maryland,24,20,44,45.5%,566167.0,606347.9,971426.0,20.0,0.792,0.889,0.951,1.013,1.129,0.896,1.001
+Adult,All,2022,Massachusetts,25,28,66,42.4%,913497.0,1069240.8,1692436.0,28.0,0.616,0.732,0.816,0.867,0.990,0.76,0.844
+Adult,All,2022,Michigan,26,59,132,44.7%,1448941.0,1710624.0,2699358.0,59.0,0.751,0.817,0.886,1.035,1.120,0.841,0.969
+Adult,All,2022,Minnesota,27,45,103,43.7%,968858.0,1071273.4,1706661.0,45.0,0.741,0.819,0.898,1.003,1.083,0.847,0.956
+Adult,All,2022,Mississippi,28,21,80,26.3%,349787.0,341863.4,525323.0,21.0,0.910,1.005,1.085,1.183,1.256,1.005,1.183
+Adult,All,2022,Missouri,29,70,101,69.3%,1633532.0,1709375.8,2692498.0,70.0,0.807,0.880,0.972,1.136,1.251,0.927,1.033
+Adult,All,2022,Montana,30,19,34,55.9%,186730.0,225997.14,358071.0,19.0,Insufficient Data,Insufficient Data,0.815,Insufficient Data,Insufficient Data,0.692,0.89
+Adult,All,2022,Nebraska,31,14,57,24.6%,251356.0,305173.06,482876.0,14.0,Insufficient Data,Insufficient Data,0.918,Insufficient Data,Insufficient Data,0.775,1.011
+Adult,All,2022,Nevada,32,19,35,54.3%,744701.0,725795.2,1159553.0,18.0,Insufficient Data,Insufficient Data,1.054,Insufficient Data,Insufficient Data,0.962,1.077
+Adult,All,2022,New Hampshire,33,9,25,36.0%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,New Jersey,34,37,72,51.4%,948615.0,1013690.56,1606442.0,37.0,0.717,0.835,0.928,1.023,1.082,0.873,1.003
+Adult,All,2022,New Mexico,35,14,43,32.6%,164992.0,172515.44,263914.0,14.0,Insufficient Data,Insufficient Data,1.111,Insufficient Data,Insufficient Data,0.985,1.217
+Adult,All,2022,New York,36,101,190,53.2%,3847614.0,4293023.5,6914908.0,101.0,0.747,0.796,0.888,0.970,1.094,0.855,0.915
+Adult,All,2022,North Carolina,37,70,118,59.3%,1724045.0,1883361.2,2986867.0,70.0,0.747,0.827,0.922,1.072,1.159,0.865,0.984
+Adult,All,2022,North Dakota,38,3,27,11.1%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,Ohio,39,91,158,57.6%,2353110.0,2601558.5,4081509.0,91.0,0.743,0.838,0.931,1.008,1.125,0.902,0.958
+Adult,All,2022,Oklahoma,40,32,106,30.2%,712128.0,679801.1,1071867.0,32.0,0.906,0.959,1.088,1.191,1.261,0.997,1.157
+Adult,All,2022,Oregon,41,34,59,57.6%,521984.0,664139.5,1045118.0,34.0,0.492,0.731,0.770,0.854,0.954,0.741,0.841
+Adult,All,2022,Pennsylvania,42,38,180,21.1%,921926.0,1076827.6,1695017.0,38.0,0.699,0.803,0.874,0.934,1.016,0.833,0.91
+Adult,All,2022,Puerto Rico,72,6,42,14.3%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,Rhode Island,44,5,11,45.5%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,South Carolina,45,41,66,62.1%,1023544.0,1122373.6,1783410.0,41.0,0.776,0.877,0.970,1.027,1.140,0.897,1.01
+Adult,All,2022,South Dakota,46,8,59,13.6%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,Tennessee,47,64,103,62.1%,1769061.0,1797517.9,2825255.0,64.0,0.803,0.881,1.004,1.165,1.269,0.939,1.055
+Adult,All,2022,Texas,48,152,407,37.3%,3980964.0,3958902.2,6113698.0,151.0,0.812,0.894,0.990,1.126,1.231,0.959,1.031
+Adult,All,2022,Utah,49,18,45,40.0%,180549.0,207694.47,316530.0,18.0,Insufficient Data,Insufficient Data,0.860,Insufficient Data,Insufficient Data,0.799,1.015
+Adult,All,2022,Vermont,50,3,15,20.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2022,Virginia,51,76,89,85.4%,1765624.0,1789617.5,2815488.0,76.0,0.820,0.903,0.984,1.106,1.238,0.943,1.044
+Adult,All,2022,Washington,53,47,90,52.2%,1039665.0,1206969.4,1902290.0,47.0,0.704,0.783,0.875,0.973,1.101,0.838,0.93
+Adult,All,2022,West Virginia,54,17,52,32.7%,324620.0,263172.6,415965.0,17.0,Insufficient Data,Insufficient Data,1.101,Insufficient Data,Insufficient Data,0.994,1.186
+Adult,All,2022,Wisconsin,55,54,140,38.6%,744756.0,834399.0,1329665.0,54.0,0.743,0.846,0.926,1.001,1.105,0.901,0.973
+Adult,All,2022,Wyoming,56,3,27,11.1%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,Alabama,1,23,90,25.5%,519649.0,504268.12,786659.0,23.0,0.864,0.920,1.028,1.096,1.147,0.927,1.086
+Adult,All,2023,Alaska,2,7,19,36.8%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,Arizona,4,22,85,25.8%,475020.0,456892.28,717190.0,22.0,0.511,0.811,0.997,1.139,1.202,0.814,1.139
+Adult,All,2023,Arkansas,5,37,73,50.6%,711273.0,686201.56,1057488.0,37.0,0.795,0.965,1.082,1.178,1.515,0.997,1.12
+Adult,All,2023,California,6,184,361,50.9%,5566721.0,5131384.0,7997617.0,184.0,0.903,0.970,1.100,1.235,1.378,1.058,1.141
+Adult,All,2023,Colorado,8,58,84,69.0%,899178.0,1010118.94,1569818.0,58.0,0.726,0.821,0.886,0.978,1.124,0.862,0.92
+Adult,All,2023,Connecticut,9,22,31,70.9%,760753.0,821976.1,1308448.0,22.0,0.838,0.882,0.919,0.980,1.024,0.904,0.98
+Adult,All,2023,Delaware,10,3,9,33.3%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,District of Columbia,11,3,7,42.8%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,Florida,12,127,224,56.7%,3700417.0,3654336.5,5743429.0,127.0,0.833,0.921,0.999,1.107,1.214,0.977,1.033
+Adult,All,2023,Georgia,13,64,135,47.4%,1839468.0,1972114.0,3142312.0,64.0,0.736,0.862,0.960,1.068,1.155,0.925,1.0
+Adult,All,2023,Hawaii,15,8,19,42.1%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,Idaho,16,14,39,35.9%,149232.0,178952.98,276348.0,14.0,Insufficient Data,Insufficient Data,0.923,Insufficient Data,Insufficient Data,0.835,1.181
+Adult,All,2023,Illinois,17,64,179,35.7%,1707528.0,1709707.5,2666146.0,64.0,0.839,0.912,1.013,1.136,1.225,0.971,1.05
+Adult,All,2023,Indiana,18,86,121,71.0%,1503889.0,1499624.1,2345636.0,86.0,0.844,0.927,1.039,1.147,1.295,1.005,1.083
+Adult,All,2023,Iowa,19,19,107,17.7%,303858.0,341003.78,532993.0,19.0,Insufficient Data,Insufficient Data,0.926,Insufficient Data,Insufficient Data,0.897,1.081
+Adult,All,2023,Kansas,20,28,102,27.4%,275692.0,300376.9,463477.0,28.0,0.827,0.881,0.969,1.110,1.207,0.891,1.082
+Adult,All,2023,Kentucky,21,64,96,66.6%,1084262.0,1098009.4,1684803.0,64.0,0.723,0.886,1.033,1.183,1.284,0.95,1.114
+Adult,All,2023,Louisiana,22,58,119,48.7%,928794.0,906937.75,1391744.0,58.0,0.721,0.892,1.004,1.118,1.330,0.966,1.074
+Adult,All,2023,Maine,23,18,26,69.2%,304693.0,339040.53,548226.0,18.0,Insufficient Data,Insufficient Data,0.994,Insufficient Data,Insufficient Data,0.884,1.166
+Adult,All,2023,Maryland,24,21,43,48.8%,665482.0,696034.44,1108714.0,21.0,0.825,0.923,0.946,1.066,1.172,0.923,1.066
+Adult,All,2023,Massachusetts,25,35,65,53.8%,1114303.0,1264812.9,2029616.0,35.0,0.658,0.744,0.858,0.911,1.060,0.815,0.882
+Adult,All,2023,Michigan,26,50,130,38.4%,1239681.0,1383464.6,2172349.0,50.0,0.794,0.839,0.908,1.067,1.144,0.888,0.997
+Adult,All,2023,Minnesota,27,52,103,50.4%,993859.0,1059799.0,1697282.0,52.0,0.791,0.861,0.942,1.038,1.180,0.884,0.993
+Adult,All,2023,Mississippi,28,26,81,32.1%,582299.0,540829.06,839953.0,26.0,0.872,0.963,1.086,1.227,1.362,0.997,1.203
+Adult,All,2023,Missouri,29,72,101,71.2%,1694477.0,1692933.4,2657190.0,72.0,0.836,0.921,1.036,1.132,1.316,0.981,1.058
+Adult,All,2023,Montana,30,19,43,44.1%,188845.0,216635.03,343753.0,19.0,Insufficient Data,Insufficient Data,0.850,Insufficient Data,Insufficient Data,0.78,0.967
+Adult,All,2023,Nebraska,31,17,65,26.1%,285586.0,325936.75,513265.0,17.0,Insufficient Data,Insufficient Data,0.982,Insufficient Data,Insufficient Data,0.891,1.061
+Adult,All,2023,Nevada,32,20,36,55.5%,803711.0,785996.4,1245897.0,20.0,0.884,0.940,1.023,1.123,1.153,0.946,1.122
+Adult,All,2023,New Hampshire,33,10,25,40.0%,144110.0,171453.88,262420.0,10.0,Insufficient Data,Insufficient Data,0.801,Insufficient Data,Insufficient Data,0.758,0.945
+Adult,All,2023,New Jersey,34,46,71,64.7%,1201902.0,1304790.1,2057667.0,46.0,0.738,0.838,0.946,1.038,1.126,0.894,1.013
+Adult,All,2023,New Mexico,35,21,44,47.7%,291124.0,282021.75,423625.0,21.0,0.897,0.981,1.089,1.181,1.328,0.981,1.181
+Adult,All,2023,New York,36,115,189,60.8%,4187966.0,4551930.0,7322010.0,115.0,0.739,0.814,0.926,1.063,1.226,0.884,0.944
+Adult,All,2023,North Carolina,37,80,118,67.8%,1841526.0,1932211.9,3054737.0,80.0,0.792,0.859,0.988,1.107,1.192,0.933,1.05
+Adult,All,2023,North Dakota,38,13,27,48.1%,176578.0,186208.42,302315.0,13.0,Insufficient Data,Insufficient Data,0.972,Insufficient Data,Insufficient Data,0.81,1.05
+Adult,All,2023,Ohio,39,105,160,65.6%,2656638.0,2878879.0,4508872.0,105.0,0.776,0.857,0.925,1.033,1.160,0.906,0.966
+Adult,All,2023,Oklahoma,40,41,109,37.6%,670735.0,621126.94,974326.0,41.0,0.857,0.984,1.045,1.199,1.283,0.993,1.144
+Adult,All,2023,Oregon,41,36,57,63.1%,578203.0,663462.7,1043558.0,34.0,0.721,0.776,0.868,0.986,1.093,0.817,0.973
+Adult,All,2023,Pennsylvania,42,58,178,32.5%,1440706.0,1574563.0,2474326.0,58.0,0.745,0.834,0.927,1.033,1.143,0.881,0.975
+Adult,All,2023,Puerto Rico,72,6,49,12.2%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,Rhode Island,44,5,11,45.4%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,South Carolina,45,36,66,54.5%,1025954.0,1093966.2,1733677.0,36.0,0.798,0.886,0.936,1.036,1.153,0.907,1.009
+Adult,All,2023,South Dakota,46,7,58,12.0%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,Tennessee,47,74,105,70.4%,1904032.0,1875147.1,2930844.0,74.0,0.815,0.927,1.028,1.181,1.265,0.99,1.09
+Adult,All,2023,Texas,48,189,415,45.5%,5168762.0,4823541.5,7499477.0,189.0,0.859,0.957,1.075,1.167,1.300,1.037,1.103
+Adult,All,2023,Utah,49,17,45,37.7%,160364.0,181294.88,281962.0,17.0,Insufficient Data,Insufficient Data,0.830,Insufficient Data,Insufficient Data,0.776,0.943
+Adult,All,2023,Vermont,50,5,15,33.3%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Adult,All,2023,Virginia,51,80,89,89.8%,1903190.0,1866158.8,2939210.0,80.0,0.880,0.939,1.020,1.112,1.193,0.977,1.054
+Adult,All,2023,Washington,53,53,85,62.3%,1252636.0,1374155.9,2178797.0,53.0,0.749,0.838,0.933,1.026,1.165,0.868,0.993
+Adult,All,2023,West Virginia,54,15,52,28.8%,200748.0,164631.62,259204.0,15.0,Insufficient Data,Insufficient Data,1.164,Insufficient Data,Insufficient Data,1.052,1.33
+Adult,All,2023,Wisconsin,55,65,140,46.4%,778395.0,871934.9,1370328.0,65.0,0.743,0.827,0.920,0.999,1.050,0.886,0.96
+Adult,All,2023,Wyoming,56,4,26,15.3%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Alabama,1,7,20,35.0%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Alaska,2,2,4,50.0%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Arizona,4,3,24,12.5%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Arkansas,5,8,15,53.3%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,California,6,62,170,36.4%,108721.0,109942.2,404661.0,62.0,0.521,0.747,0.905,1.161,1.565,0.826,1.019
+Neonatal,All,2021,Colorado,8,25,32,78.1%,14958.0,25243.43,103534.0,25.0,0.320,0.449,0.576,0.683,0.898,0.449,0.665
+Neonatal,All,2021,Connecticut,9,5,14,35.7%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Delaware,10,2,4,50.0%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,District of Columbia,11,3,6,50.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Florida,12,32,78,41.0%,53288.0,56322.55,223552.0,32.0,0.561,0.659,0.909,1.345,1.585,0.742,1.237
+Neonatal,All,2021,Georgia,13,24,48,50.0%,30305.0,34962.82,129911.0,24.0,0.462,0.664,0.982,1.166,1.498,0.768,1.152
+Neonatal,All,2021,Hawaii,15,0,3,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Idaho,16,4,12,33.3%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Illinois,17,15,68,22.0%,31838.0,37135.73,130425.0,15.0,Insufficient Data,Insufficient Data,0.757,Insufficient Data,Insufficient Data,0.439,1.144
+Neonatal,All,2021,Indiana,18,27,39,69.2%,31017.0,40545.26,168721.0,27.0,0.204,0.467,0.655,1.080,1.302,0.582,0.883
+Neonatal,All,2021,Iowa,19,3,15,20.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Kansas,20,7,19,36.8%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Kentucky,21,14,22,63.6%,16745.0,17195.32,78665.0,14.0,Insufficient Data,Insufficient Data,1.088,Insufficient Data,Insufficient Data,0.839,1.367
+Neonatal,All,2021,Louisiana,22,20,34,58.8%,41972.0,30051.93,129040.0,20.0,0.373,0.759,1.103,1.587,2.316,0.831,1.583
+Neonatal,All,2021,Maine,23,2,3,66.6%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Maryland,24,6,24,25.0%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Massachusetts,25,9,27,33.3%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Michigan,26,11,29,37.9%,22263.0,25975.17,95431.0,11.0,Insufficient Data,Insufficient Data,0.891,Insufficient Data,Insufficient Data,0.746,1.186
+Neonatal,All,2021,Minnesota,27,9,21,42.8%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Mississippi,28,4,18,22.2%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Missouri,29,22,33,66.6%,48131.0,48620.83,202016.0,21.0,0.451,0.580,0.741,1.140,1.362,0.58,1.14
+Neonatal,All,2021,Montana,30,8,8,100.0%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Nebraska,31,6,15,40.0%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Nevada,32,7,12,58.3%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,New Hampshire,33,2,5,40.0%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,New Jersey,34,13,33,39.3%,25552.0,28851.79,104937.0,13.0,Insufficient Data,Insufficient Data,0.749,Insufficient Data,Insufficient Data,0.439,1.168
+Neonatal,All,2021,New Mexico,35,2,7,28.5%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,New York,36,35,73,47.9%,75882.0,73750.03,272987.0,35.0,0.488,0.780,1.100,1.492,1.847,0.865,1.385
+Neonatal,All,2021,North Carolina,37,29,41,70.7%,46422.0,54992.79,213333.0,29.0,0.418,0.543,0.791,1.048,1.358,0.614,1.044
+Neonatal,All,2021,North Dakota,38,3,6,50.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Ohio,39,13,37,35.1%,27570.0,29790.79,110711.0,13.0,Insufficient Data,Insufficient Data,0.822,Insufficient Data,Insufficient Data,0.579,1.217
+Neonatal,All,2021,Oklahoma,40,10,21,47.6%,25519.0,19660.65,86002.0,10.0,Insufficient Data,Insufficient Data,1.092,Insufficient Data,Insufficient Data,0.629,1.758
+Neonatal,All,2021,Oregon,41,7,12,58.3%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Pennsylvania,42,8,64,12.5%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Puerto Rico,72,1,12,8.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Rhode Island,44,1,1,100.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,South Carolina,45,11,19,57.9%,23278.0,28838.22,115519.0,11.0,Insufficient Data,Insufficient Data,0.780,Insufficient Data,Insufficient Data,0.627,1.184
+Neonatal,All,2021,South Dakota,46,1,3,33.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Tennessee,47,16,35,45.7%,37718.0,37273.5,156718.0,16.0,Insufficient Data,Insufficient Data,0.996,Insufficient Data,Insufficient Data,0.713,1.462
+Neonatal,All,2021,Texas,48,65,161,40.3%,117916.0,128259.16,478413.0,65.0,0.525,0.712,0.876,1.184,1.527,0.781,1.012
+Neonatal,All,2021,Utah,49,10,21,47.6%,11977.0,10842.08,40288.0,10.0,Insufficient Data,Insufficient Data,1.071,Insufficient Data,Insufficient Data,0.862,1.593
+Neonatal,All,2021,Vermont,50,1,1,100.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Virginia,51,25,35,71.4%,34022.0,37644.82,158623.0,25.0,0.220,0.572,0.932,1.180,1.436,0.678,1.158
+Neonatal,All,2021,Washington,53,14,29,48.2%,12186.0,19393.27,80586.0,14.0,Insufficient Data,Insufficient Data,0.484,Insufficient Data,Insufficient Data,0.42,0.821
+Neonatal,All,2021,West Virginia,54,0,7,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2021,Wisconsin,55,10,31,32.2%,12844.0,12458.29,57946.0,10.0,Insufficient Data,Insufficient Data,0.937,Insufficient Data,Insufficient Data,0.655,1.379
+Neonatal,All,2021,Wyoming,56,0,2,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Alabama,1,9,20,45.0%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Alaska,2,3,4,75.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Arizona,4,5,26,19.2%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Arkansas,5,9,17,52.9%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,California,6,86,172,50.0%,126146.0,131405.36,497153.0,86.0,0.648,0.730,0.879,1.163,1.456,0.811,0.955
+Neonatal,All,2022,Colorado,8,25,32,78.1%,17047.0,26523.146,112896.0,25.0,0.323,0.452,0.532,0.771,1.190,0.46,0.747
+Neonatal,All,2022,Connecticut,9,6,14,42.9%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Delaware,10,3,4,75.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,District of Columbia,11,3,6,50.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Florida,12,35,78,44.9%,63100.0,58380.023,250966.0,34.0,0.508,0.711,1.015,1.349,1.654,0.741,1.289
+Neonatal,All,2022,Georgia,13,24,48,50.0%,33183.0,34218.84,132285.0,24.0,0.448,0.734,0.985,1.208,1.611,0.763,1.198
+Neonatal,All,2022,Hawaii,15,0,3,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Idaho,16,5,12,41.7%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Illinois,17,21,66,31.8%,37909.0,45730.406,165250.0,21.0,0.483,0.547,0.769,0.968,1.223,0.547,0.968
+Neonatal,All,2022,Indiana,18,29,38,76.3%,25360.0,38495.824,153044.0,28.0,0.326,0.465,0.585,0.877,1.712,0.554,0.833
+Neonatal,All,2022,Iowa,19,4,16,25.0%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Kansas,20,6,19,31.6%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Kentucky,21,18,22,81.8%,30073.0,32582.12,121292.0,18.0,Insufficient Data,Insufficient Data,0.955,Insufficient Data,Insufficient Data,0.785,1.225
+Neonatal,All,2022,Louisiana,22,23,34,67.6%,38576.0,28888.162,130997.0,23.0,0.515,0.924,1.072,1.316,1.851,0.949,1.312
+Neonatal,All,2022,Maine,23,3,3,100.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Maryland,24,10,24,41.7%,15138.0,14832.144,61995.0,10.0,Insufficient Data,Insufficient Data,0.724,Insufficient Data,Insufficient Data,0.489,1.398
+Neonatal,All,2022,Massachusetts,25,10,28,35.7%,15956.0,20250.662,89699.0,10.0,Insufficient Data,Insufficient Data,0.641,Insufficient Data,Insufficient Data,0.301,1.072
+Neonatal,All,2022,Michigan,26,18,31,58.1%,31009.0,37180.953,137973.0,18.0,Insufficient Data,Insufficient Data,0.842,Insufficient Data,Insufficient Data,0.705,1.056
+Neonatal,All,2022,Minnesota,27,13,22,59.1%,20924.0,18247.506,80614.0,13.0,Insufficient Data,Insufficient Data,1.117,Insufficient Data,Insufficient Data,0.724,1.29
+Neonatal,All,2022,Mississippi,28,5,18,27.8%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Missouri,29,22,33,66.7%,45457.0,51816.133,206571.0,22.0,0.381,0.529,0.621,1.134,1.209,0.533,1.134
+Neonatal,All,2022,Montana,30,8,8,100.0%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Nebraska,31,6,14,42.9%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Nevada,32,10,13,76.9%,17739.0,17933.293,72342.0,10.0,Insufficient Data,Insufficient Data,0.692,Insufficient Data,Insufficient Data,0.554,1.336
+Neonatal,All,2022,New Hampshire,33,2,6,33.3%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,New Jersey,34,17,35,48.6%,27228.0,33833.227,122471.0,17.0,Insufficient Data,Insufficient Data,0.718,Insufficient Data,Insufficient Data,0.555,1.052
+Neonatal,All,2022,New Mexico,35,2,7,28.6%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,New York,36,44,76,57.9%,79175.0,79154.21,296515.0,44.0,0.587,0.755,1.036,1.482,1.922,0.856,1.218
+Neonatal,All,2022,North Carolina,37,25,39,64.1%,47391.0,55824.58,218508.0,25.0,0.469,0.553,0.816,1.073,1.203,0.579,1.004
+Neonatal,All,2022,North Dakota,38,2,6,33.3%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Ohio,39,20,38,52.6%,39389.0,49739.95,192333.0,20.0,0.525,0.626,0.770,1.096,1.329,0.63,1.08
+Neonatal,All,2022,Oklahoma,40,10,22,45.5%,26656.0,20000.092,87752.0,10.0,Insufficient Data,Insufficient Data,1.199,Insufficient Data,Insufficient Data,0.786,1.906
+Neonatal,All,2022,Oregon,41,9,12,75.0%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Pennsylvania,42,15,63,23.8%,13386.0,18390.705,70941.0,15.0,Insufficient Data,Insufficient Data,0.684,Insufficient Data,Insufficient Data,0.618,0.861
+Neonatal,All,2022,Puerto Rico,72,2,18,11.1%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Rhode Island,44,1,1,100.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,South Carolina,45,12,19,63.2%,24615.0,31544.04,123872.0,12.0,Insufficient Data,Insufficient Data,0.718,Insufficient Data,Insufficient Data,0.442,1.168
+Neonatal,All,2022,South Dakota,46,1,3,33.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Tennessee,47,21,33,63.6%,52362.0,49545.824,194801.0,21.0,0.540,0.823,1.102,1.467,1.713,0.823,1.467
+Neonatal,All,2022,Texas,48,77,156,49.4%,135922.0,151584.88,581254.0,77.0,0.525,0.636,0.861,1.033,1.348,0.77,0.935
+Neonatal,All,2022,Utah,49,10,21,47.6%,10094.0,10027.132,38695.0,10.0,Insufficient Data,Insufficient Data,1.138,Insufficient Data,Insufficient Data,0.645,1.662
+Neonatal,All,2022,Vermont,50,1,1,100.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Virginia,51,26,34,76.5%,34395.0,36340.562,156363.0,26.0,0.463,0.669,0.978,1.127,1.456,0.679,1.074
+Neonatal,All,2022,Washington,53,21,28,75.0%,25039.0,36185.117,140597.0,21.0,0.418,0.439,0.659,0.793,1.189,0.439,0.793
+Neonatal,All,2022,West Virginia,54,2,6,33.3%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Neonatal,All,2022,Wisconsin,55,11,35,31.4%,13324.0,15274.121,57882.0,11.0,Insufficient Data,Insufficient Data,0.941,Insufficient Data,Insufficient Data,0.753,1.375
+Neonatal,All,2022,Wyoming,56,0,2,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Alabama,1,4,15,26.6%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Alaska,2,2,4,50.0%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Arizona,4,1,12,8.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Arkansas,5,2,7,28.5%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,California,6,32,94,34.0%,189608.0,200974.83,367130.0,32.0,0.429,0.656,0.914,1.052,1.132,0.76,1.0
+Pediatric,All,2021,Colorado,8,8,14,57.1%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Connecticut,9,3,6,50.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Delaware,10,1,4,25.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,District of Columbia,11,0,3,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Florida,12,13,60,21.6%,82401.0,84921.4,154168.0,12.0,Insufficient Data,Insufficient Data,0.957,Insufficient Data,Insufficient Data,0.733,1.047
+Pediatric,All,2021,Georgia,13,10,22,45.4%,21072.0,22634.07,45101.0,10.0,Insufficient Data,Insufficient Data,0.927,Insufficient Data,Insufficient Data,0.716,1.07
+Pediatric,All,2021,Hawaii,15,0,3,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Idaho,16,2,6,33.3%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Illinois,17,8,49,16.3%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Indiana,18,14,32,43.7%,49858.0,59680.59,112627.0,14.0,Insufficient Data,Insufficient Data,0.630,Insufficient Data,Insufficient Data,0.456,0.969
+Pediatric,All,2021,Iowa,19,3,19,15.7%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Kansas,20,4,11,36.3%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Kentucky,21,5,19,26.3%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Louisiana,22,7,24,29.1%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Maine,23,2,3,66.6%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Maryland,24,3,21,14.2%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Massachusetts,25,4,26,15.3%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Michigan,26,6,22,27.2%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Minnesota,27,8,15,53.3%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Mississippi,28,2,14,14.2%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Missouri,29,10,17,58.8%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Montana,30,4,5,80.0%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Nebraska,31,1,6,16.6%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Nevada,32,2,6,33.3%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,New Hampshire,33,3,6,50.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,New Jersey,34,13,36,36.1%,43549.0,42899.02,84312.0,13.0,Insufficient Data,Insufficient Data,0.762,Insufficient Data,Insufficient Data,0.588,1.214
+Pediatric,All,2021,New Mexico,35,6,11,54.5%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,New York,36,31,64,48.4%,144087.0,164695.62,324945.0,31.0,0.543,0.754,0.865,1.069,1.113,0.781,1.02
+Pediatric,All,2021,North Carolina,37,17,32,53.1%,72524.0,84343.71,161572.0,17.0,Insufficient Data,Insufficient Data,0.750,Insufficient Data,Insufficient Data,0.619,0.962
+Pediatric,All,2021,North Dakota,38,1,5,20.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Ohio,39,10,21,47.6%,81915.0,96172.93,183159.0,10.0,Insufficient Data,Insufficient Data,0.627,Insufficient Data,Insufficient Data,0.597,0.841
+Pediatric,All,2021,Oklahoma,40,5,7,71.4%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Oregon,41,5,9,55.5%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Pennsylvania,42,1,39,2.5%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Puerto Rico,72,3,17,17.6%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Rhode Island,44,0,2,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,South Carolina,45,8,16,50.0%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,South Dakota,46,1,5,20.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Tennessee,47,7,15,46.6%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Texas,48,25,75,33.3%,176111.0,169802.77,309303.0,25.0,0.789,0.924,1.011,1.153,1.233,0.958,1.148
+Pediatric,All,2021,Utah,49,3,10,30.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Vermont,50,1,2,50.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Virginia,51,14,24,58.3%,60956.0,61856.07,114713.0,14.0,Insufficient Data,Insufficient Data,0.730,Insufficient Data,Insufficient Data,0.639,0.999
+Pediatric,All,2021,,80,1,1,100.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Washington,53,5,13,38.4%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,West Virginia,54,3,12,25.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2021,Wisconsin,55,7,12,58.3%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Alabama,1,4,14,28.6%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Alaska,2,3,4,75.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Arizona,4,1,11,9.1%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Arkansas,5,3,7,42.9%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,California,6,42,93,45.2%,216091.0,236133.3,435450.0,41.0,0.562,0.781,0.842,1.036,1.180,0.814,0.992
+Pediatric,All,2022,Colorado,8,5,12,41.7%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Connecticut,9,3,6,50.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Delaware,10,2,4,50.0%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,District of Columbia,11,0,3,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Florida,12,13,50,26.0%,86443.0,87040.8,164660.0,13.0,Insufficient Data,Insufficient Data,0.987,Insufficient Data,Insufficient Data,0.839,1.141
+Pediatric,All,2022,Georgia,13,10,20,50.0%,25345.0,27739.824,54249.0,10.0,Insufficient Data,Insufficient Data,0.875,Insufficient Data,Insufficient Data,0.802,1.069
+Pediatric,All,2022,Hawaii,15,0,3,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Idaho,16,2,6,33.3%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Illinois,17,11,38,28.9%,55451.0,60662.92,113229.0,11.0,Insufficient Data,Insufficient Data,0.828,Insufficient Data,Insufficient Data,0.806,1.08
+Pediatric,All,2022,Indiana,18,13,25,52.0%,28831.0,33847.434,63271.0,12.0,Insufficient Data,Insufficient Data,0.747,Insufficient Data,Insufficient Data,0.705,0.933
+Pediatric,All,2022,Iowa,19,3,16,18.8%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Kansas,20,4,11,36.4%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Kentucky,21,6,16,37.5%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Louisiana,22,9,21,42.9%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Maine,23,2,3,66.7%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Maryland,24,5,19,26.3%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Massachusetts,25,5,23,21.7%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Michigan,26,8,19,42.1%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Minnesota,27,8,13,61.5%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Mississippi,28,2,14,14.3%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Missouri,29,10,16,62.5%,86349.0,99513.22,191129.0,10.0,Insufficient Data,Insufficient Data,0.879,Insufficient Data,Insufficient Data,0.59,0.979
+Pediatric,All,2022,Montana,30,4,5,80.0%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Nebraska,31,1,6,16.7%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Nevada,32,4,6,66.7%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,New Hampshire,33,4,6,66.7%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,New Jersey,34,14,35,40.0%,49960.0,59285.645,120374.0,14.0,Insufficient Data,Insufficient Data,0.736,Insufficient Data,Insufficient Data,0.582,1.031
+Pediatric,All,2022,New Mexico,35,4,11,36.4%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,New York,36,37,60,61.7%,200838.0,224413.77,439596.0,37.0,0.442,0.788,0.869,0.994,1.166,0.825,0.974
+Pediatric,All,2022,North Carolina,37,17,28,60.7%,81537.0,91401.805,174692.0,17.0,Insufficient Data,Insufficient Data,0.799,Insufficient Data,Insufficient Data,0.687,0.926
+Pediatric,All,2022,North Dakota,38,0,5,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Ohio,39,10,22,45.5%,102326.0,120031.69,233307.0,10.0,Insufficient Data,Insufficient Data,0.790,Insufficient Data,Insufficient Data,0.652,1.0
+Pediatric,All,2022,Oklahoma,40,4,5,80.0%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Oregon,41,7,9,77.8%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Pennsylvania,42,4,37,10.8%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Puerto Rico,72,3,31,9.7%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Rhode Island,44,0,2,0.0%,,,,0.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,South Carolina,45,8,13,61.5%,,,,8.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,South Dakota,46,1,4,25.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Tennessee,47,7,12,58.3%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Texas,48,32,70,45.7%,273893.0,272524.16,506011.0,32.0,0.757,0.901,0.973,1.105,1.188,0.926,1.068
+Pediatric,All,2022,Utah,49,3,9,33.3%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Vermont,50,1,2,50.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Virginia,51,11,20,55.0%,59827.0,59177.848,109969.0,11.0,Insufficient Data,Insufficient Data,0.722,Insufficient Data,Insufficient Data,0.673,1.04
+Pediatric,All,2022,Washington,53,9,12,75.0%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,West Virginia,54,2,9,22.2%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Wisconsin,55,7,12,58.3%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2022,Wyoming,56,1,3,33.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Alabama,1,5,14,35.7%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Alaska,2,3,5,60.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Arizona,4,1,10,10.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Arkansas,5,4,6,66.6%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,California,6,41,90,45.5%,225921.0,246416.77,452076.0,41.0,0.596,0.778,0.896,1.054,1.133,0.814,0.992
+Pediatric,All,2023,Colorado,8,5,8,62.5%,,,,5.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Connecticut,9,4,6,66.6%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Delaware,10,2,4,50.0%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,District of Columbia,11,1,3,33.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Florida,12,15,43,34.8%,115305.0,110870.53,202086.0,15.0,Insufficient Data,Insufficient Data,0.968,Insufficient Data,Insufficient Data,0.928,1.107
+Pediatric,All,2023,Georgia,13,12,19,63.1%,34280.0,35835.99,69270.0,12.0,Insufficient Data,Insufficient Data,0.938,Insufficient Data,Insufficient Data,0.799,1.105
+Pediatric,All,2023,Hawaii,15,1,3,33.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Idaho,16,4,6,66.6%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Illinois,17,11,34,32.3%,49317.0,52708.535,97423.0,11.0,Insufficient Data,Insufficient Data,0.917,Insufficient Data,Insufficient Data,0.802,1.028
+Pediatric,All,2023,Indiana,18,11,20,55.0%,37948.0,47036.42,89400.0,11.0,Insufficient Data,Insufficient Data,0.830,Insufficient Data,Insufficient Data,0.656,0.984
+Pediatric,All,2023,Iowa,19,3,16,18.7%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Kansas,20,4,12,33.3%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Kentucky,21,7,13,53.8%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Louisiana,22,9,19,47.3%,,,,9.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Maine,23,2,3,66.6%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Maryland,24,6,18,33.3%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Massachusetts,25,7,21,33.3%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Michigan,26,7,16,43.7%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Minnesota,27,11,13,84.6%,74686.0,62262.062,121086.0,11.0,Insufficient Data,Insufficient Data,0.988,Insufficient Data,Insufficient Data,0.733,1.301
+Pediatric,All,2023,Mississippi,28,5,14,35.7%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Missouri,29,10,16,62.5%,87495.0,95696.54,183874.0,10.0,Insufficient Data,Insufficient Data,0.918,Insufficient Data,Insufficient Data,0.803,1.006
+Pediatric,All,2023,Montana,30,4,5,80.0%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Nebraska,31,2,5,40.0%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Nevada,32,4,6,66.6%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,New Hampshire,33,4,6,66.6%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,New Jersey,34,17,35,48.5%,52599.0,60178.42,120195.0,17.0,Insufficient Data,Insufficient Data,0.877,Insufficient Data,Insufficient Data,0.662,0.988
+Pediatric,All,2023,New Mexico,35,6,9,66.6%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,New York,36,38,56,67.8%,213840.0,226001.81,446160.0,38.0,0.428,0.802,0.938,1.113,1.291,0.837,1.003
+Pediatric,All,2023,North Carolina,37,16,25,64.0%,85963.0,89671.8,169290.0,16.0,Insufficient Data,Insufficient Data,0.914,Insufficient Data,Insufficient Data,0.843,1.06
+Pediatric,All,2023,North Dakota,38,2,5,40.0%,,,,2.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Ohio,39,12,21,57.1%,120259.0,130827.445,252145.0,12.0,Insufficient Data,Insufficient Data,0.790,Insufficient Data,Insufficient Data,0.687,0.891
+Pediatric,All,2023,Oklahoma,40,3,5,60.0%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Oregon,41,7,10,70.0%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Pennsylvania,42,11,29,37.9%,78466.0,99340.8,183514.0,11.0,Insufficient Data,Insufficient Data,0.823,Insufficient Data,Insufficient Data,0.739,0.933
+Pediatric,All,2023,Puerto Rico,72,4,33,12.1%,,,,4.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Rhode Island,44,0,2,0.0%,,,,,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,South Carolina,45,7,13,53.8%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,South Dakota,46,1,3,33.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Tennessee,47,7,11,63.6%,,,,7.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Texas,48,34,62,54.8%,283135.0,268043.03,495866.0,34.0,0.836,0.930,1.030,1.149,1.215,0.966,1.114
+Pediatric,All,2023,Utah,49,3,8,37.5%,,,,3.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Vermont,50,1,2,50.0%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Virginia,51,11,15,73.3%,50645.0,48179.49,91178.0,11.0,Insufficient Data,Insufficient Data,0.825,Insufficient Data,Insufficient Data,0.692,0.984
+Pediatric,All,2023,Washington,53,11,12,91.6%,55835.0,65010.094,124168.0,11.0,Insufficient Data,Insufficient Data,0.698,Insufficient Data,Insufficient Data,0.476,1.044
+Pediatric,All,2023,West Virginia,54,1,9,11.1%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Wisconsin,55,6,10,60.0%,,,,6.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,
+Pediatric,All,2023,Wyoming,56,1,3,33.3%,,,,1.0,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,Insufficient Data,,

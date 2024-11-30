@@ -1,0 +1,53 @@
+"SAAR Population","Agent","Event Year","State","ID State","No. of facilities reporting SAARs","No. of facilities eligible to report SAARs","Percentage of eligible facilities reporting","Observed Antimicrobial Days","Predicted Antimicrobial Days","Days Present","No. Facilities Included in Distribution","10th Percentile","25th Percentile","50th Percentile","75th Percentile","90th Percentile","Lower Confidence Limit for 50% percentile (median) SAAR value","Upper Confidence Limit for 50% percentile (median) SAAR value"
+"Neonatal","All","2021","Alabama","1","7","20","35.0%",,,,"6","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Alaska","2","2","4","50.0%",,,,"2","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Arizona","4","3","24","12.5%",,,,"3","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Arkansas","5","8","15","53.3%",,,,"8","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","California","6","62","170","36.4%","108721",109942.2,"404661","62","0.521","0.747","0.905","1.161","1.565","0.826","1.019"
+"Neonatal","All","2021","Colorado","8","25","32","78.1%","14958",25243.43,"103534","25","0.320","0.449","0.576","0.683","0.898","0.449","0.665"
+"Neonatal","All","2021","Connecticut","9","5","14","35.7%",,,,"5","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Delaware","10","2","4","50.0%",,,,"2","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","District of Columbia","11","3","6","50.0%",,,,"3","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Florida","12","32","78","41.0%","53288",56322.55,"223552","32","0.561","0.659","0.909","1.345","1.585","0.742","1.237"
+"Neonatal","All","2021","Georgia","13","24","48","50.0%","30305",34962.82,"129911","24","0.462","0.664","0.982","1.166","1.498","0.768","1.152"
+"Neonatal","All","2021","Hawaii","15","0","3","0.0%",,,,"0","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Idaho","16","4","12","33.3%",,,,"4","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Illinois","17","15","68","22.0%","31838",37135.73,"130425","15","Insufficient Data","Insufficient Data","0.757","Insufficient Data","Insufficient Data","0.439","1.144"
+"Neonatal","All","2021","Indiana","18","27","39","69.2%","31017",40545.26,"168721","27","0.204","0.467","0.655","1.080","1.302","0.582","0.883"
+"Neonatal","All","2021","Iowa","19","3","15","20.0%",,,,"3","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Kansas","20","7","19","36.8%",,,,"7","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Kentucky","21","14","22","63.6%","16745",17195.32,"78665","14","Insufficient Data","Insufficient Data","1.088","Insufficient Data","Insufficient Data","0.839","1.367"
+"Neonatal","All","2021","Louisiana","22","20","34","58.8%","41972",30051.93,"129040","20","0.373","0.759","1.103","1.587","2.316","0.831","1.583"
+"Neonatal","All","2021","Maine","23","2","3","66.6%",,,,"2","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Maryland","24","6","24","25.0%",,,,"6","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Massachusetts","25","9","27","33.3%",,,,"9","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Michigan","26","11","29","37.9%","22263",25975.17,"95431","11","Insufficient Data","Insufficient Data","0.891","Insufficient Data","Insufficient Data","0.746","1.186"
+"Neonatal","All","2021","Minnesota","27","9","21","42.8%",,,,"9","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Mississippi","28","4","18","22.2%",,,,"4","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Missouri","29","22","33","66.6%","48131",48620.83,"202016","21","0.451","0.580","0.741","1.140","1.362","0.580","1.140"
+"Neonatal","All","2021","Montana","30","8","8","100.0%",,,,"8","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Nebraska","31","6","15","40.0%",,,,"6","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Nevada","32","7","12","58.3%",,,,"7","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","New Hampshire","33","2","5","40.0%",,,,"2","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","New Jersey","34","13","33","39.3%","25552",28851.79,"104937","13","Insufficient Data","Insufficient Data","0.749","Insufficient Data","Insufficient Data","0.439","1.168"
+"Neonatal","All","2021","New Mexico","35","2","7","28.5%",,,,"2","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","New York","36","35","73","47.9%","75882",73750.03,"272987","35","0.488","0.780","1.100","1.492","1.847","0.865","1.385"
+"Neonatal","All","2021","North Carolina","37","29","41","70.7%","46422",54992.79,"213333","29","0.418","0.543","0.791","1.048","1.358","0.614","1.044"
+"Neonatal","All","2021","North Dakota","38","3","6","50.0%",,,,"3","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Ohio","39","13","37","35.1%","27570",29790.79,"110711","13","Insufficient Data","Insufficient Data","0.822","Insufficient Data","Insufficient Data","0.579","1.217"
+"Neonatal","All","2021","Oklahoma","40","10","21","47.6%","25519",19660.65,"86002","10","Insufficient Data","Insufficient Data","1.092","Insufficient Data","Insufficient Data","0.629","1.758"
+"Neonatal","All","2021","Oregon","41","7","12","58.3%",,,,"7","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Pennsylvania","42","8","64","12.5%",,,,"8","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Puerto Rico","72","1","12","8.3%",,,,"1","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Rhode Island","44","1","1","100.0%",,,,"1","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","South Carolina","45","11","19","57.9%","23278",28838.22,"115519","11","Insufficient Data","Insufficient Data","0.780","Insufficient Data","Insufficient Data","0.627","1.184"
+"Neonatal","All","2021","South Dakota","46","1","3","33.3%",,,,"1","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Tennessee","47","16","35","45.7%","37718",37273.5,"156718","16","Insufficient Data","Insufficient Data","0.996","Insufficient Data","Insufficient Data","0.713","1.462"
+"Neonatal","All","2021","Texas","48","65","161","40.3%","117916",128259.16,"478413","65","0.525","0.712","0.876","1.184","1.527","0.781","1.012"
+"Neonatal","All","2021","Utah","49","10","21","47.6%","11977",10842.08,"40288","10","Insufficient Data","Insufficient Data","1.071","Insufficient Data","Insufficient Data","0.862","1.593"
+"Neonatal","All","2021","Vermont","50","1","1","100.0%",,,,"1","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Virginia","51","25","35","71.4%","34022",37644.82,"158623","25","0.220","0.572","0.932","1.180","1.436","0.678","1.158"
+"Neonatal","All","2021","Washington","53","14","29","48.2%","12186",19393.27,"80586","14","Insufficient Data","Insufficient Data","0.484","Insufficient Data","Insufficient Data","0.420","0.821"
+"Neonatal","All","2021","West Virginia","54","0","7","0.0%",,,,"0","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
+"Neonatal","All","2021","Wisconsin","55","10","31","32.2%","12844",12458.29,"57946","10","Insufficient Data","Insufficient Data","0.937","Insufficient Data","Insufficient Data","0.655","1.379"
+"Neonatal","All","2021","Wyoming","56","0","2","0.0%",,,,"0","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data","Insufficient Data",,
