@@ -41,13 +41,6 @@ Decide which Column and rows to keep for resistance.csv and saar.csv
 
 Creat a new file avg_state.csv to plot average saar value and average precent non susceptible for each state. 
 
-
-Machine learning
-graph which phenotypes have the highest percent non susceptiblity.
-
-Use the top three phenotype to predict their precent non susceptibility for 2025-2030. 
-
-
 ### support project goals
 1. Establish baseline antibiotic usage tends
     a. line graph using antibiotics_sales.csv
