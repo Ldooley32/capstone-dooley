@@ -263,17 +263,17 @@ Use the function to summarize data files
     print(missing_percentage)```
 
 1. antibiotics_sales.csv
-![image](https://github.com/user-attachments/assets/95d72fd4-8c98-4207-9348-dd5ab66f50fd)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 213916.png)
 2. updated_resistance.csv
 
-![image](https://github.com/user-attachments/assets/86740fec-c3b7-45a8-85c3-69898a0e511d)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 214126.png)
 
-![image](https://github.com/user-attachments/assets/1f62f85f-9baa-4195-8acf-2611cc62fa12)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 214217.png)
 
-![image](https://github.com/user-attachments/assets/1edceaa1-5a68-4484-ba04-f4f213b26811)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 214310.png)
 3. avg_per_state.csv
 
-![image](https://github.com/user-attachments/assets/ed979ac9-c993-4368-b7a5-f040b82f71bf)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 214340.png)
 
 
 ### Visualization
@@ -282,7 +282,7 @@ Use the function to summarize data files
             * million kilograms of antibiotic sold for livestock and human per year 
 
 
-![image](https://github.com/user-attachments/assets/d681ab84-8446-4ace-b615-4b24145313a8)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 220229.png)
 
 
 2. Total number of bacteria resistence per year
@@ -290,7 +290,7 @@ Use the function to summarize data files
             * average percent non susceptible per year
 
 
-![image](https://github.com/user-attachments/assets/1ee535ec-5fbc-43ec-8c6e-18b4ec323784)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 220317.png)
 
 
 
@@ -299,7 +299,7 @@ Use the function to summarize data files
      b. scatterplot using avg_state.csv
 
 
-![image](https://github.com/user-attachments/assets/ba7cfe9a-4510-448a-b28a-a7d9506171f7)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 220353.png)
 
 
 
@@ -307,7 +307,7 @@ Use the function to summarize data files
 ## Machine learing 
 1.Determine the top phenotypes in data.
 
-![image](https://github.com/user-attachments/assets/cee71178-6c90-4b46-879e-2d957c585df6)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 220511.png)
 
 2.Decision Tree 
 - load the dataset
@@ -368,7 +368,7 @@ print('F1 is ', f1_score(y_test, y_test_pred))```
 
 
 
-![image](https://github.com/user-attachments/assets/8c9ce4d7-0873-4ea4-913f-e7853b8ea6f7)
+![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 231006.png)
 
 
 
