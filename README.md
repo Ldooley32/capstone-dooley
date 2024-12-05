@@ -269,18 +269,18 @@ Use the function below to summarize data files:
     ```
 
 1. antibiotics_sales.csv
-![Fig_1](Screenshot 2024-12-04 213916.png)
+![Fig_1](ss_fig_1.png)
 
 2. updated_resistance.csv
 
-![Fig_2](Screenshot 2024-12-04 214126.png)
+![Fig_2](ss_fig_2.png)
 
-![Fig_3](Screenshot 2024-12-04 214217.png)
+![Fig_3](ss_fig_3.png)
 
-![Fig_4](Screenshot 2024-12-04 214310.png)
+![Fig_4](ss_fig_4.png)
 3. avg_per_state.csv
 
-![Fig_5](Screenshot 2024-12-04 214340.png)
+![Fig_5](ss_fig_5.png)
 
 
 ### Visualization
@@ -289,7 +289,7 @@ Use the function below to summarize data files:
             * million kilograms of antibiotic sold for livestock and human per year 
 
 
-![Fig_6](Screenshot 2024-12-04 220229.png)
+![Fig_6](ss_fig_6.png)
 
 
 2. Total number of bacteria resistence per year
@@ -297,7 +297,7 @@ Use the function below to summarize data files:
             * average percent non susceptible per year
 
 
-![Fig_7](Screenshot 2024-12-04 220317.png)
+![Fig_7](ss_fig_7.png)
 
 
 
@@ -306,14 +306,14 @@ Use the function below to summarize data files:
      b. scatterplot using avg_state.csv
 
 
-![Fig_8](Screenshot 2024-12-04 220353.png)
+![Fig_8](ss_fig_8.png)
 
 
 
 ## Machine learing 
 1. Determine the top phenotypes in data.
 
-![Fig_8](Screenshot 2024-12-04 220511.png)
+![Fig_9](ss_fig_9.png)
 
 2. Decision Tree 
 - **load the dataset**
@@ -383,7 +383,7 @@ print('F1 is ', f1_score(y_test, y_test_pred))
 ```
 
 
-![Fig_9](Ldooley32/capstone-dooley/Screenshot 2024-12-04 231006.png)
+![Fig_10](ss_fig_10.png)
 
 
 
