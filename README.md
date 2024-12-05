@@ -263,11 +263,11 @@ Use the function to summarize data files
     print(missing_percentage)```
 
 1. antibiotics_sales.csv
-Screenshot 2024-12-04 213916.png
+![Fig 1](C:\Users\laura\OneDrive\Documents\capstone-dooley\Screenshot 2024-12-04 213916.png)
 
 2. updated_resistance.csv
 
-![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 214126.png)
+![image](C:\Users\laura\OneDrive\Documents\capstone-dooley\Screenshot 2024-12-04 214126.png)
 
 ![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 214217.png)
 
