@@ -263,7 +263,8 @@ Use the function to summarize data files
     print(missing_percentage)```
 
 1. antibiotics_sales.csv
-![Fig 1](Screenshot 2024-12-04 213916.png)
+Screenshot 2024-12-04 213916.png
+
 2. updated_resistance.csv
 
 ![image](Ldooley32/capstone-dooley/Screenshot 2024-12-04 214126.png)
